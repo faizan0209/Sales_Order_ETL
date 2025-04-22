@@ -1,0 +1,1006 @@
+OrderID,CustomerName,Product,Category,Quantity,Price,OrderDate,City,Region,Total_Price,Month
+1,Ali Khan,T-Shirt,Clothing,2,15,2024-10-01,Karachi,South,30,October
+2,Sana Ahmed,Headphones,Electronics,1,40,2024-10-01,Lahore,North,40,October
+3,John Smith,Book,Books,3,10,2024-10-02,Karachi,South,30,October
+4,Ayesha Noor,Power Bank,Electronics,1,25,2024-10-03,Islamabad,North,25,October
+5,Bilal Aslam,Shoes,Clothing,1,30,2024-10-03,Lahore,North,30,October
+6,Dr. Victor Howard,Backpack,Accessories,4,20,2024-10-20,Peshawar,North,80,October
+7,Erica Bush,Power Bank,Electronics,1,25,2024-10-12,Islamabad,North,25,October
+8,Brian Edwards,Watch,Accessories,1,50,2024-12-25,Lahore,North,50,December
+9,Beverly Cervantes,Backpack,Accessories,4,20,2024-12-26,Multan,South,80,December
+10,Jessica Jackson,Shoes,Clothing,5,30,2024-10-06,Multan,South,150,October
+11,John Fields,Notebook,Books,2,5,2024-12-13,Quetta,South,10,December
+12,Robert Williams,T-Shirt,Clothing,1,15,2024-12-02,Lahore,North,15,December
+13,Kristin Robertson,Watch,Accessories,1,50,2024-12-20,Peshawar,North,50,December
+14,Logan Harris,Power Bank,Electronics,5,25,2024-10-26,Quetta,South,125,October
+15,David Smith,Mouse,Electronics,5,15,2024-12-02,Peshawar,North,75,December
+16,Teresa Foster,Mouse,Electronics,1,15,2024-10-20,Quetta,South,15,October
+17,Kathleen Ortega,Headphones,Electronics,5,40,2024-11-24,Multan,South,200,November
+18,Scott Hebert,Jeans,Clothing,2,35,2024-11-26,Lahore,North,70,November
+19,James Andrade,T-Shirt,Clothing,3,15,2024-12-02,Karachi,South,45,December
+20,Katie Wolfe,Shoes,Clothing,2,30,2024-11-02,Multan,South,60,November
+21,Anna Conner,Jeans,Clothing,3,35,2024-10-12,Multan,South,105,October
+22,Patrick Miller,Backpack,Accessories,2,20,2024-12-20,Karachi,South,40,December
+23,Jessica King,Shoes,Clothing,4,30,2024-10-05,Quetta,South,120,October
+24,Timothy Miranda,T-Shirt,Clothing,4,15,2024-11-10,Islamabad,North,60,November
+25,Yvonne Shaw,T-Shirt,Clothing,3,15,2024-10-28,Islamabad,North,45,October
+26,Desiree Brown,Jeans,Clothing,1,35,2024-11-02,Karachi,South,35,November
+27,Bobby Wagner,T-Shirt,Clothing,3,15,2024-12-27,Peshawar,North,45,December
+28,Christian Pham,Jeans,Clothing,2,35,2024-12-04,Islamabad,North,70,December
+29,Jason Villa,Watch,Accessories,1,50,2024-12-24,Islamabad,North,50,December
+30,Tammy Lee,Headphones,Electronics,5,40,2024-10-10,Peshawar,North,200,October
+31,Yesenia Taylor,Backpack,Accessories,3,20,2024-10-15,Islamabad,North,60,October
+32,Brian Whitaker,Jeans,Clothing,5,35,2024-11-06,Islamabad,North,175,November
+33,Lisa Barnes,Power Bank,Electronics,3,25,2024-12-28,Multan,South,75,December
+34,Rebecca White,Backpack,Accessories,3,20,2024-11-15,Multan,South,60,November
+35,Veronica Kline,Mouse,Electronics,1,15,2024-12-07,Multan,South,15,December
+36,Carolyn Webb,Shoes,Clothing,3,30,2024-11-16,Peshawar,North,90,November
+37,Nicole Roman,Shoes,Clothing,5,30,2024-12-02,Multan,South,150,December
+38,Dawn Reyes,Notebook,Books,3,5,2024-10-17,Islamabad,North,15,October
+39,Tonya Kennedy,T-Shirt,Clothing,1,15,2024-12-02,Lahore,North,15,December
+40,Mr. Christopher Gray MD,Power Bank,Electronics,3,25,2024-11-15,Islamabad,North,75,November
+41,Paul Jensen,Notebook,Books,1,5,2024-10-30,Multan,South,5,October
+42,Jose Johnson,Headphones,Electronics,4,40,2024-12-23,Lahore,North,160,December
+43,Jill Davis,Watch,Accessories,5,50,2024-12-13,Islamabad,North,250,December
+44,Mariah Walls,Backpack,Accessories,3,20,2024-12-23,Lahore,North,60,December
+45,Christine Martin,Jeans,Clothing,1,35,2024-12-16,Peshawar,North,35,December
+46,Lindsey Thompson,Backpack,Accessories,1,20,2024-11-14,Lahore,North,20,November
+47,Natalie Porter,Book,Books,1,10,2024-12-27,Peshawar,North,10,December
+48,Keith Rodriguez,Headphones,Electronics,5,40,2024-11-10,Karachi,South,200,November
+49,Lori Reyes DVM,Backpack,Accessories,3,20,2024-10-02,Islamabad,North,60,October
+50,Nicholas Richards,Shoes,Clothing,2,30,2024-12-08,Lahore,North,60,December
+51,Wesley Hester,Backpack,Accessories,3,20,2024-11-16,Quetta,South,60,November
+52,Linda Montoya,Power Bank,Electronics,5,25,2024-11-15,Multan,South,125,November
+53,Carolyn Rodriguez,Power Bank,Electronics,3,25,2024-11-11,Karachi,South,75,November
+54,Victoria Scott,Notebook,Books,4,5,2024-12-06,Peshawar,North,20,December
+55,Bruce Cooke,Watch,Accessories,5,50,2024-11-24,Islamabad,North,250,November
+56,Thomas Bailey,Mouse,Electronics,5,15,2024-11-27,Islamabad,North,75,November
+57,Heather Scott,Power Bank,Electronics,2,25,2024-10-09,Quetta,South,50,October
+58,Christopher Davis,Notebook,Books,1,5,2024-12-14,Quetta,South,5,December
+59,Renee Baker,Notebook,Books,4,5,2024-10-01,Lahore,North,20,October
+60,Ronald Werner,Mouse,Electronics,5,15,2024-10-25,Quetta,South,75,October
+61,Robin Singh,Watch,Accessories,5,50,2024-12-04,Islamabad,North,250,December
+62,Jennifer Romero,Headphones,Electronics,4,40,2024-12-14,Karachi,South,160,December
+63,William Hancock,Book,Books,2,10,2024-10-18,Lahore,North,20,October
+64,Jonathan Greene,Jeans,Clothing,3,35,2024-10-19,Islamabad,North,105,October
+65,Michelle Vasquez,Backpack,Accessories,2,20,2024-11-24,Lahore,North,40,November
+66,Danielle Taylor,Jeans,Clothing,2,35,2024-11-20,Quetta,South,70,November
+67,Christine Barnett,Watch,Accessories,5,50,2024-12-29,Lahore,North,250,December
+68,Mary Page,Power Bank,Electronics,4,25,2024-11-07,Karachi,South,100,November
+69,Kara Miller,Jeans,Clothing,2,35,2024-10-01,Lahore,North,70,October
+70,Dylan Perez,Headphones,Electronics,1,40,2024-11-07,Quetta,South,40,November
+71,Mark Solomon,Shoes,Clothing,4,30,2024-10-27,Lahore,North,120,October
+72,Christina Cohen MD,Backpack,Accessories,2,20,2024-11-07,Lahore,North,40,November
+73,Alex Marquez,Jeans,Clothing,2,35,2024-11-08,Multan,South,70,November
+74,Donna Moreno,T-Shirt,Clothing,3,15,2024-11-03,Karachi,South,45,November
+75,Sydney Serrano,Book,Books,2,10,2024-12-20,Quetta,South,20,December
+76,Daniel Garcia,T-Shirt,Clothing,3,15,2024-11-04,Multan,South,45,November
+77,Robin Williams,Jeans,Clothing,3,35,2024-11-16,Multan,South,105,November
+78,Sarah Harris,Jeans,Clothing,1,35,2024-11-26,Peshawar,North,35,November
+79,Philip Powers,Book,Books,5,10,2024-10-27,Peshawar,North,50,October
+80,April Hanna,Headphones,Electronics,1,40,2024-12-28,Islamabad,North,40,December
+81,Taylor Gay,Mouse,Electronics,3,15,2024-11-22,Islamabad,North,45,November
+82,Douglas Nunez,Headphones,Electronics,4,40,2024-12-02,Quetta,South,160,December
+83,Samantha Ramirez,T-Shirt,Clothing,2,15,2024-11-12,Quetta,South,30,November
+84,Julie Wallace,Headphones,Electronics,1,40,2024-12-21,Peshawar,North,40,December
+85,Teresa Smith,Notebook,Books,5,5,2024-11-10,Islamabad,North,25,November
+86,Michael Williams,Mouse,Electronics,4,15,2024-12-16,Karachi,South,60,December
+87,Lauren Gutierrez,T-Shirt,Clothing,4,15,2024-12-25,Multan,South,60,December
+88,Samantha Palmer,Notebook,Books,5,5,2024-12-16,Lahore,North,25,December
+89,Jessica White,Backpack,Accessories,3,20,2024-11-15,Karachi,South,60,November
+90,Angela Ford,Shoes,Clothing,4,30,2024-10-14,Lahore,North,120,October
+91,Roberto Green,T-Shirt,Clothing,5,15,2024-11-27,Multan,South,75,November
+92,Tanya Wallace,Notebook,Books,2,5,2024-10-12,Quetta,South,10,October
+93,Joshua Mcdaniel,Watch,Accessories,2,50,2024-10-15,Lahore,North,100,October
+94,Mr. Carlos Harrison,Headphones,Electronics,2,40,2024-11-17,Karachi,South,80,November
+95,Jessica Edwards,Backpack,Accessories,5,20,2024-10-12,Lahore,North,100,October
+96,Melissa Lucero,Mouse,Electronics,2,15,2024-11-02,Islamabad,North,30,November
+97,Michael Moran,Mouse,Electronics,4,15,2024-11-26,Islamabad,North,60,November
+98,Patrick Riggs,Shoes,Clothing,1,30,2024-12-05,Karachi,South,30,December
+99,John Bowman DDS,Backpack,Accessories,3,20,2024-12-14,Multan,South,60,December
+100,Vanessa Castillo,Shoes,Clothing,4,30,2024-10-10,Karachi,South,120,October
+101,Edward Daniel,Power Bank,Electronics,1,25,2024-11-08,Karachi,South,25,November
+102,Mary Walker,Watch,Accessories,5,50,2024-11-08,Lahore,North,250,November
+103,Bill Wright,Book,Books,1,10,2024-11-29,Lahore,North,10,November
+104,Erika Campbell,Headphones,Electronics,3,40,2024-12-14,Lahore,North,120,December
+105,Paige Brown,Watch,Accessories,5,50,2024-11-06,Karachi,South,250,November
+106,Joshua Hunt,Book,Books,5,10,2024-11-12,Karachi,South,50,November
+107,James Long,T-Shirt,Clothing,2,15,2024-10-18,Multan,South,30,October
+108,Veronica Cohen,Headphones,Electronics,3,40,2024-12-02,Karachi,South,120,December
+109,Kristina Petersen,Jeans,Clothing,3,35,2024-11-21,Karachi,South,105,November
+110,Benjamin Williams,Power Bank,Electronics,2,25,2024-11-08,Islamabad,North,50,November
+111,Timothy Rhodes,T-Shirt,Clothing,4,15,2024-11-12,Quetta,South,60,November
+112,Samantha Rodriguez,Shoes,Clothing,1,30,2024-12-14,Peshawar,North,30,December
+113,Robert Morton,Jeans,Clothing,3,35,2024-11-23,Multan,South,105,November
+114,Annette Nicholson,Headphones,Electronics,5,40,2024-10-14,Islamabad,North,200,October
+115,Katherine Turner,Jeans,Clothing,3,35,2024-10-04,Lahore,North,105,October
+116,Elizabeth Johnson,Shoes,Clothing,2,30,2024-10-08,Karachi,South,60,October
+117,Kathleen Lawson,Book,Books,5,10,2024-10-16,Islamabad,North,50,October
+118,Natasha Anderson,Shoes,Clothing,1,30,2024-10-27,Peshawar,North,30,October
+119,Crystal Nielsen,Jeans,Clothing,5,35,2024-10-12,Islamabad,North,175,October
+120,Joshua Gilmore,Book,Books,5,10,2024-10-04,Karachi,South,50,October
+121,Brad Jenkins,Watch,Accessories,3,50,2024-10-01,Karachi,South,150,October
+122,Steven Williams,Shoes,Clothing,4,30,2024-10-29,Multan,South,120,October
+123,Darius Hicks,Headphones,Electronics,1,40,2024-11-01,Karachi,South,40,November
+124,Kimberly Ortiz,Jeans,Clothing,1,35,2024-10-12,Quetta,South,35,October
+125,Mark Bates,Notebook,Books,5,5,2024-11-13,Lahore,North,25,November
+126,Pamela Mays,T-Shirt,Clothing,1,15,2024-12-30,Multan,South,15,December
+127,Chad Lane,Power Bank,Electronics,2,25,2024-11-22,Multan,South,50,November
+128,Jeffrey Hubbard,Backpack,Accessories,1,20,2024-10-30,Lahore,North,20,October
+129,Emily Sharp,Jeans,Clothing,1,35,2024-11-08,Peshawar,North,35,November
+130,Thomas Russell,Shoes,Clothing,4,30,2024-10-22,Peshawar,North,120,October
+131,Michelle Edwards,Headphones,Electronics,5,40,2024-10-17,Islamabad,North,200,October
+132,Erica Lee,Book,Books,4,10,2024-11-13,Lahore,North,40,November
+133,Kenneth Kelley,Book,Books,1,10,2024-12-21,Karachi,South,10,December
+134,Randy Stout,Power Bank,Electronics,1,25,2024-10-07,Lahore,North,25,October
+135,Donna Miller,Power Bank,Electronics,1,25,2024-11-14,Multan,South,25,November
+136,James Kennedy,Jeans,Clothing,5,35,2024-12-07,Quetta,South,175,December
+137,Zachary Decker,Backpack,Accessories,5,20,2024-12-21,Quetta,South,100,December
+138,Tina White,Notebook,Books,1,5,2024-10-03,Quetta,South,5,October
+139,Christina Alvarez,T-Shirt,Clothing,1,15,2024-10-19,Peshawar,North,15,October
+140,Stephen Gray,T-Shirt,Clothing,2,15,2024-12-16,Multan,South,30,December
+141,John Bradford,Book,Books,3,10,2024-11-01,Islamabad,North,30,November
+142,Jennifer Meyer,Watch,Accessories,2,50,2024-11-22,Peshawar,North,100,November
+143,Sean Fritz,Book,Books,1,10,2024-12-26,Lahore,North,10,December
+144,William Lyons,Shoes,Clothing,1,30,2024-12-17,Quetta,South,30,December
+145,Brian Taylor,Backpack,Accessories,4,20,2024-10-24,Multan,South,80,October
+146,Pamela Johns,Backpack,Accessories,3,20,2024-11-28,Islamabad,North,60,November
+147,Erika Simmons,Power Bank,Electronics,4,25,2024-11-22,Islamabad,North,100,November
+148,Sabrina Hill,T-Shirt,Clothing,2,15,2024-10-15,Karachi,South,30,October
+149,Colin Wilson,Power Bank,Electronics,5,25,2024-10-06,Multan,South,125,October
+150,Michael Phillips,Watch,Accessories,3,50,2024-11-23,Peshawar,North,150,November
+151,Dennis Anderson,Backpack,Accessories,2,20,2024-11-10,Lahore,North,40,November
+152,Meghan Leon,Notebook,Books,4,5,2024-12-03,Peshawar,North,20,December
+153,Donna Woods,T-Shirt,Clothing,3,15,2024-12-23,Lahore,North,45,December
+154,Michelle Gutierrez,T-Shirt,Clothing,3,15,2024-12-28,Multan,South,45,December
+155,Michelle Mitchell DVM,T-Shirt,Clothing,2,15,2024-12-15,Multan,South,30,December
+156,David Colon,Backpack,Accessories,3,20,2024-10-09,Peshawar,North,60,October
+157,Kenneth Perez,Power Bank,Electronics,1,25,2024-11-05,Karachi,South,25,November
+158,Jacqueline Wolf DDS,Mouse,Electronics,1,15,2024-10-02,Karachi,South,15,October
+159,Jennifer Harris,Notebook,Books,5,5,2024-12-07,Islamabad,North,25,December
+160,Mr. Kevin Larson,Backpack,Accessories,1,20,2024-11-23,Islamabad,North,20,November
+161,Natalie Tate,Headphones,Electronics,4,40,2024-12-01,Lahore,North,160,December
+162,Timothy Stevens,Mouse,Electronics,1,15,2024-11-20,Peshawar,North,15,November
+163,Deborah Owen,Notebook,Books,2,5,2024-10-02,Quetta,South,10,October
+164,Dr. Ryan White,Mouse,Electronics,4,15,2024-10-12,Karachi,South,60,October
+165,Brian Thomas,Power Bank,Electronics,4,25,2024-10-16,Peshawar,North,100,October
+166,Mrs. Natalie Austin MD,Notebook,Books,2,5,2024-11-25,Peshawar,North,10,November
+167,Frank Lawson,Watch,Accessories,3,50,2024-12-16,Islamabad,North,150,December
+168,Darryl Crawford,Book,Books,2,10,2024-10-18,Multan,South,20,October
+169,Travis Maxwell,Watch,Accessories,3,50,2024-10-28,Peshawar,North,150,October
+170,Paul Lamb,Power Bank,Electronics,2,25,2024-12-08,Quetta,South,50,December
+171,Antonio Adkins,T-Shirt,Clothing,4,15,2024-12-04,Peshawar,North,60,December
+172,Kimberly Roy,Book,Books,5,10,2024-12-03,Peshawar,North,50,December
+173,Oscar Bond,Jeans,Clothing,4,35,2024-10-02,Quetta,South,140,October
+174,Ross Weaver,Shoes,Clothing,1,30,2024-10-14,Multan,South,30,October
+175,Adrian Torres,Book,Books,1,10,2024-12-04,Quetta,South,10,December
+176,Robert Griffin,Mouse,Electronics,3,15,2024-12-13,Islamabad,North,45,December
+177,Teresa Schultz,Jeans,Clothing,5,35,2024-10-17,Lahore,North,175,October
+178,Larry Parker,Shoes,Clothing,3,30,2024-10-19,Multan,South,90,October
+179,Veronica Rivera,Book,Books,2,10,2024-11-21,Peshawar,North,20,November
+180,Amy Brooks,Headphones,Electronics,3,40,2024-12-22,Peshawar,North,120,December
+181,Austin Gonzalez,Watch,Accessories,4,50,2024-10-10,Peshawar,North,200,October
+182,Richard Nelson,T-Shirt,Clothing,5,15,2024-10-10,Lahore,North,75,October
+183,Larry Smith,Watch,Accessories,1,50,2024-12-15,Islamabad,North,50,December
+184,Robert Rivera,Notebook,Books,3,5,2024-12-23,Lahore,North,15,December
+185,Levi Gomez,Backpack,Accessories,3,20,2024-11-10,Islamabad,North,60,November
+186,Susan Gamble,Watch,Accessories,2,50,2024-12-10,Quetta,South,100,December
+187,Randy Benton,Watch,Accessories,2,50,2024-10-19,Karachi,South,100,October
+188,Veronica Carr,Notebook,Books,2,5,2024-12-04,Karachi,South,10,December
+189,Mitchell Jordan,Jeans,Clothing,3,35,2024-10-24,Multan,South,105,October
+190,Pamela Arnold,Shoes,Clothing,5,30,2024-11-13,Peshawar,North,150,November
+191,Ernest Aguilar,Jeans,Clothing,1,35,2024-10-28,Lahore,North,35,October
+192,Lori Burns,Power Bank,Electronics,5,25,2024-10-14,Lahore,North,125,October
+193,Dawn Gibson,T-Shirt,Clothing,1,15,2024-12-13,Lahore,North,15,December
+194,Robert Walton,Watch,Accessories,4,50,2024-11-10,Quetta,South,200,November
+195,Christopher Little,Power Bank,Electronics,2,25,2024-10-02,Quetta,South,50,October
+196,Diana Powers,Jeans,Clothing,5,35,2024-11-10,Karachi,South,175,November
+197,Bruce Robinson,Backpack,Accessories,1,20,2024-10-31,Lahore,North,20,October
+198,Kathy Wang,Backpack,Accessories,3,20,2024-10-20,Quetta,South,60,October
+199,Kyle Knox,Backpack,Accessories,4,20,2024-12-18,Quetta,South,80,December
+200,April Johnson,Book,Books,4,10,2024-11-04,Lahore,North,40,November
+201,Robert Sheppard,Backpack,Accessories,5,20,2024-11-17,Islamabad,North,100,November
+202,Mr. Brian Harrison III,T-Shirt,Clothing,1,15,2024-11-28,Multan,South,15,November
+203,Cody King,T-Shirt,Clothing,3,15,2024-11-27,Karachi,South,45,November
+204,Brittany Bender,Notebook,Books,1,5,2024-10-06,Peshawar,North,5,October
+205,Bryce Rice,Watch,Accessories,5,50,2024-10-17,Karachi,South,250,October
+206,Alicia Padilla,Jeans,Clothing,5,35,2024-12-10,Islamabad,North,175,December
+207,Xavier Mitchell,Book,Books,5,10,2024-11-21,Peshawar,North,50,November
+208,Linda Baker,Headphones,Electronics,2,40,2024-11-17,Peshawar,North,80,November
+209,Dawn Macias,Notebook,Books,5,5,2024-10-18,Peshawar,North,25,October
+210,Julie Bates,Jeans,Clothing,1,35,2024-12-28,Karachi,South,35,December
+211,Caroline Thomas,Watch,Accessories,4,50,2024-10-23,Multan,South,200,October
+212,Raymond Mendez,Shoes,Clothing,5,30,2024-10-31,Multan,South,150,October
+213,William Lloyd Jr.,Headphones,Electronics,5,40,2024-10-14,Multan,South,200,October
+214,Joshua Ruiz,Power Bank,Electronics,5,25,2024-11-21,Quetta,South,125,November
+215,Jonathan Flores,Backpack,Accessories,5,20,2024-11-21,Karachi,South,100,November
+216,Kenneth Smith,Power Bank,Electronics,4,25,2024-10-15,Quetta,South,100,October
+217,Anne Jones,Notebook,Books,1,5,2024-10-09,Multan,South,5,October
+218,Patrick Boone,Power Bank,Electronics,1,25,2024-12-02,Lahore,North,25,December
+219,Jessica Castillo,T-Shirt,Clothing,1,15,2024-12-07,Peshawar,North,15,December
+220,Mary Hansen,Notebook,Books,2,5,2024-11-06,Quetta,South,10,November
+221,Catherine Brown,Mouse,Electronics,5,15,2024-12-27,Islamabad,North,75,December
+222,Jennifer Keith,Power Bank,Electronics,1,25,2024-10-02,Lahore,North,25,October
+223,John Lee,Book,Books,4,10,2024-11-21,Peshawar,North,40,November
+224,Tammy Stone,Jeans,Clothing,2,35,2024-10-11,Multan,South,70,October
+225,Robin Dixon,Shoes,Clothing,5,30,2024-11-26,Peshawar,North,150,November
+226,Jennifer Watson,T-Shirt,Clothing,2,15,2024-11-18,Peshawar,North,30,November
+227,Martin Gibbs,Shoes,Clothing,1,30,2024-12-15,Peshawar,North,30,December
+228,Becky Blake,Backpack,Accessories,4,20,2024-12-10,Peshawar,North,80,December
+229,Justin Bennett,T-Shirt,Clothing,2,15,2024-11-11,Karachi,South,30,November
+230,Alicia Walker,T-Shirt,Clothing,3,15,2024-11-18,Multan,South,45,November
+231,Tyler Yang,Power Bank,Electronics,3,25,2024-11-22,Multan,South,75,November
+232,Jessica Rasmussen,T-Shirt,Clothing,1,15,2024-11-11,Peshawar,North,15,November
+233,Charles Patel,T-Shirt,Clothing,3,15,2024-12-08,Peshawar,North,45,December
+234,Sean Walker,Backpack,Accessories,2,20,2024-10-20,Karachi,South,40,October
+235,Robert Hunter,Book,Books,1,10,2024-11-07,Islamabad,North,10,November
+236,Jimmy Thomas,Shoes,Clothing,3,30,2024-11-20,Multan,South,90,November
+237,Mrs. Sarah Osborne,Watch,Accessories,2,50,2024-10-22,Lahore,North,100,October
+238,Stephanie Jimenez,T-Shirt,Clothing,4,15,2024-12-26,Lahore,North,60,December
+239,Mark Blake,Headphones,Electronics,4,40,2024-12-21,Islamabad,North,160,December
+240,Brenda Miller,Notebook,Books,2,5,2024-12-22,Peshawar,North,10,December
+241,Andrew Clark,Shoes,Clothing,5,30,2024-12-25,Peshawar,North,150,December
+242,James Turner,Shoes,Clothing,5,30,2024-12-09,Quetta,South,150,December
+243,Robert Holmes,Mouse,Electronics,1,15,2024-10-13,Quetta,South,15,October
+244,Tyler Henderson,Mouse,Electronics,1,15,2024-12-23,Lahore,North,15,December
+245,Matthew Barnett,Power Bank,Electronics,2,25,2024-11-07,Islamabad,North,50,November
+246,Angela Clark,Power Bank,Electronics,4,25,2024-11-12,Quetta,South,100,November
+247,Casey Adkins,Backpack,Accessories,2,20,2024-10-20,Peshawar,North,40,October
+248,Angela Taylor,Watch,Accessories,5,50,2024-10-04,Lahore,North,250,October
+249,Melissa Ward,Mouse,Electronics,1,15,2024-10-15,Multan,South,15,October
+250,Anthony Clark,Shoes,Clothing,1,30,2024-11-15,Peshawar,North,30,November
+251,Jeremy Murphy,Power Bank,Electronics,5,25,2024-12-25,Peshawar,North,125,December
+252,Brandy Collins,T-Shirt,Clothing,5,15,2024-12-22,Quetta,South,75,December
+253,Victor Li,T-Shirt,Clothing,4,15,2024-12-21,Multan,South,60,December
+254,Raymond Davis,Shoes,Clothing,5,30,2024-10-21,Lahore,North,150,October
+255,Shane Smith,Mouse,Electronics,4,15,2024-12-23,Multan,South,60,December
+256,Samantha Martinez,Headphones,Electronics,2,40,2024-12-11,Lahore,North,80,December
+257,Anthony Lopez,Notebook,Books,5,5,2024-11-12,Islamabad,North,25,November
+258,Richard Brown,Backpack,Accessories,2,20,2024-12-15,Multan,South,40,December
+259,Craig Blake,Book,Books,1,10,2024-12-25,Quetta,South,10,December
+260,Linda Miller,Mouse,Electronics,1,15,2024-12-10,Lahore,North,15,December
+261,Brandi Dunn,Headphones,Electronics,4,40,2024-12-15,Karachi,South,160,December
+262,Jacob Smith,Shoes,Clothing,1,30,2024-10-06,Multan,South,30,October
+263,Anna Smith,Shoes,Clothing,5,30,2024-10-17,Karachi,South,150,October
+264,James Swanson,Mouse,Electronics,4,15,2024-12-25,Multan,South,60,December
+265,Whitney Taylor,T-Shirt,Clothing,5,15,2024-10-15,Multan,South,75,October
+266,Frank Leach,Power Bank,Electronics,1,25,2024-12-13,Lahore,North,25,December
+267,Joshua Pena,Book,Books,1,10,2024-10-21,Quetta,South,10,October
+268,Robert Clark,Shoes,Clothing,2,30,2024-12-28,Multan,South,60,December
+269,Leslie Yates,T-Shirt,Clothing,2,15,2024-12-27,Multan,South,30,December
+270,Jeremy Mitchell,T-Shirt,Clothing,3,15,2024-10-07,Karachi,South,45,October
+271,Timothy Hebert,Shoes,Clothing,4,30,2024-11-12,Lahore,North,120,November
+272,Kathy Bautista,Watch,Accessories,5,50,2024-12-23,Islamabad,North,250,December
+273,David Gallagher,T-Shirt,Clothing,2,15,2024-11-01,Multan,South,30,November
+274,William Barton,Headphones,Electronics,3,40,2024-11-28,Multan,South,120,November
+275,Brent Martinez,Book,Books,5,10,2024-10-17,Islamabad,North,50,October
+276,Dawn Ibarra,Shoes,Clothing,2,30,2024-11-24,Multan,South,60,November
+277,Michelle Campbell,Mouse,Electronics,2,15,2024-12-23,Peshawar,North,30,December
+278,Kyle Freeman,T-Shirt,Clothing,5,15,2024-12-18,Lahore,North,75,December
+279,George Hoover,Watch,Accessories,5,50,2024-12-03,Quetta,South,250,December
+280,Michael Mendez,Headphones,Electronics,4,40,2024-12-23,Lahore,North,160,December
+281,Theresa Gonzales,Watch,Accessories,3,50,2024-10-31,Lahore,North,150,October
+282,Nicole Oneal,T-Shirt,Clothing,5,15,2024-12-03,Karachi,South,75,December
+283,Kelly Morris,Watch,Accessories,5,50,2024-10-09,Peshawar,North,250,October
+284,Lance Villa,Notebook,Books,3,5,2024-10-18,Multan,South,15,October
+285,Susan Martinez,Book,Books,5,10,2024-12-02,Karachi,South,50,December
+286,Jasmine Nolan,Book,Books,3,10,2024-10-18,Karachi,South,30,October
+287,Nathaniel Blake,Backpack,Accessories,4,20,2024-11-13,Multan,South,80,November
+288,Justin Wilcox,Shoes,Clothing,5,30,2024-11-20,Islamabad,North,150,November
+289,James Russell,Mouse,Electronics,2,15,2024-12-15,Multan,South,30,December
+290,Rachel Ruiz,T-Shirt,Clothing,3,15,2024-12-10,Multan,South,45,December
+291,Donna Smith,T-Shirt,Clothing,1,15,2024-11-20,Karachi,South,15,November
+292,Valerie Walters,Jeans,Clothing,4,35,2024-11-22,Multan,South,140,November
+293,Brandy Cook,Backpack,Accessories,5,20,2024-12-04,Karachi,South,100,December
+294,Melanie Moore,Watch,Accessories,4,50,2024-10-21,Karachi,South,200,October
+295,John Vaughn,Backpack,Accessories,5,20,2024-10-12,Multan,South,100,October
+296,Ronald Lyons,Mouse,Electronics,3,15,2024-11-30,Peshawar,North,45,November
+297,Brett Patel,Watch,Accessories,5,50,2024-10-27,Peshawar,North,250,October
+298,Robert Freeman,Headphones,Electronics,5,40,2024-12-02,Islamabad,North,200,December
+299,Diana Castillo,Watch,Accessories,3,50,2024-11-11,Quetta,South,150,November
+300,Christopher Gray,Watch,Accessories,2,50,2024-10-31,Lahore,North,100,October
+301,Randy Peterson,Shoes,Clothing,4,30,2024-12-09,Multan,South,120,December
+302,Ariel Garcia,Backpack,Accessories,1,20,2024-11-25,Quetta,South,20,November
+303,Megan Richards,Notebook,Books,3,5,2024-12-05,Multan,South,15,December
+304,Michael Robertson,Backpack,Accessories,2,20,2024-12-05,Islamabad,North,40,December
+305,Gary Vasquez,Power Bank,Electronics,2,25,2024-12-12,Karachi,South,50,December
+306,Mr. Nathaniel Soto Jr.,Backpack,Accessories,5,20,2024-12-30,Lahore,North,100,December
+307,Benjamin Wilson,Shoes,Clothing,1,30,2024-11-20,Lahore,North,30,November
+308,Antonio Cantu,Watch,Accessories,2,50,2024-11-07,Quetta,South,100,November
+309,Lauren Ferguson,Mouse,Electronics,3,15,2024-11-29,Quetta,South,45,November
+310,Megan Gates,Power Bank,Electronics,3,25,2024-12-07,Peshawar,North,75,December
+311,William Ferguson,Backpack,Accessories,3,20,2024-11-25,Multan,South,60,November
+312,Michael Smith,Jeans,Clothing,2,35,2024-11-23,Karachi,South,70,November
+313,Ryan Thomas,T-Shirt,Clothing,5,15,2024-12-27,Peshawar,North,75,December
+314,Brandy Parker,Backpack,Accessories,2,20,2024-12-09,Lahore,North,40,December
+315,Andrew Neal,Shoes,Clothing,3,30,2024-10-03,Islamabad,North,90,October
+316,Christine Howell,Notebook,Books,5,5,2024-12-28,Islamabad,North,25,December
+317,Cory Curry,Notebook,Books,4,5,2024-12-28,Lahore,North,20,December
+318,Aaron Stevenson,Watch,Accessories,4,50,2024-11-15,Peshawar,North,200,November
+319,Thomas Mosley,Jeans,Clothing,4,35,2024-12-26,Islamabad,North,140,December
+320,Deborah Cruz,T-Shirt,Clothing,4,15,2024-10-23,Islamabad,North,60,October
+321,Ann Chambers,T-Shirt,Clothing,4,15,2024-12-29,Karachi,South,60,December
+322,Jennifer Green,Notebook,Books,5,5,2024-10-04,Quetta,South,25,October
+323,Janet Robertson,Notebook,Books,3,5,2024-12-05,Lahore,North,15,December
+324,Mario Maldonado,Backpack,Accessories,5,20,2024-11-09,Islamabad,North,100,November
+325,Zachary Trujillo,Backpack,Accessories,2,20,2024-12-08,Lahore,North,40,December
+326,Kelly Zhang,Jeans,Clothing,1,35,2024-11-25,Quetta,South,35,November
+327,Wendy King,Backpack,Accessories,2,20,2024-10-10,Lahore,North,40,October
+328,Jordan Decker,Shoes,Clothing,3,30,2024-11-25,Islamabad,North,90,November
+329,Casey Washington,T-Shirt,Clothing,1,15,2024-12-20,Multan,South,15,December
+330,Christopher Holmes,T-Shirt,Clothing,4,15,2024-10-27,Peshawar,North,60,October
+331,Lindsay Campbell,Book,Books,2,10,2024-11-13,Quetta,South,20,November
+332,Michael Smith,Power Bank,Electronics,1,25,2024-12-27,Karachi,South,25,December
+333,Jimmy Roman,Shoes,Clothing,5,30,2024-12-26,Karachi,South,150,December
+334,Krista Cortez,Mouse,Electronics,2,15,2024-11-09,Peshawar,North,30,November
+335,Rachel Moore,Book,Books,3,10,2024-11-14,Islamabad,North,30,November
+336,Larry Peters,Headphones,Electronics,4,40,2024-12-02,Peshawar,North,160,December
+337,Joseph Caldwell,Shoes,Clothing,3,30,2024-11-26,Karachi,South,90,November
+338,Joseph Garrett,Mouse,Electronics,2,15,2024-10-05,Quetta,South,30,October
+339,Matthew Powers,Book,Books,5,10,2024-10-23,Quetta,South,50,October
+340,Stephen Jones,Shoes,Clothing,5,30,2024-12-14,Peshawar,North,150,December
+341,Leah Brennan,Headphones,Electronics,2,40,2024-11-26,Peshawar,North,80,November
+342,Nicole Jackson,Backpack,Accessories,1,20,2024-11-08,Peshawar,North,20,November
+343,James Avila,Jeans,Clothing,2,35,2024-12-02,Karachi,South,70,December
+344,Chelsea Smith,T-Shirt,Clothing,4,15,2024-10-15,Karachi,South,60,October
+345,Jennifer Smith,Mouse,Electronics,5,15,2024-10-21,Islamabad,North,75,October
+346,Nicholas Aguilar,Backpack,Accessories,4,20,2024-10-25,Islamabad,North,80,October
+347,Holly Jones,Headphones,Electronics,4,40,2024-12-11,Multan,South,160,December
+348,Amanda Thompson,Power Bank,Electronics,3,25,2024-12-21,Lahore,North,75,December
+349,Catherine Wood,Book,Books,3,10,2024-11-24,Islamabad,North,30,November
+350,Dustin Copeland,Backpack,Accessories,4,20,2024-10-14,Quetta,South,80,October
+351,Stephanie Wallace,Headphones,Electronics,5,40,2024-10-29,Multan,South,200,October
+352,Bryan Lucero,Mouse,Electronics,3,15,2024-10-15,Peshawar,North,45,October
+353,Edward Clark MD,Shoes,Clothing,5,30,2024-11-29,Karachi,South,150,November
+354,Tracey Gray,Power Bank,Electronics,5,25,2024-11-25,Islamabad,North,125,November
+355,Jonathan Garcia,Power Bank,Electronics,1,25,2024-10-03,Multan,South,25,October
+356,Susan Davis MD,Jeans,Clothing,2,35,2024-11-24,Lahore,North,70,November
+357,Amy Salazar,Jeans,Clothing,5,35,2024-11-03,Peshawar,North,175,November
+358,Angela Cole,Watch,Accessories,3,50,2024-10-10,Multan,South,150,October
+359,Amanda Williams,Mouse,Electronics,1,15,2024-11-06,Lahore,North,15,November
+360,Kimberly Brown,Power Bank,Electronics,2,25,2024-10-17,Islamabad,North,50,October
+361,Michael Hess,Watch,Accessories,4,50,2024-11-30,Multan,South,200,November
+362,Brian Bush,Jeans,Clothing,1,35,2024-11-28,Lahore,North,35,November
+363,Christopher Young MD,Notebook,Books,4,5,2024-12-13,Quetta,South,20,December
+364,Derek Carter,Headphones,Electronics,3,40,2024-12-16,Peshawar,North,120,December
+365,Veronica Patterson,Notebook,Books,2,5,2024-12-08,Lahore,North,10,December
+366,Evelyn Goodwin,Power Bank,Electronics,2,25,2024-12-28,Islamabad,North,50,December
+367,Darryl Cunningham,Power Bank,Electronics,4,25,2024-12-24,Karachi,South,100,December
+368,Brandon Jordan,Headphones,Electronics,1,40,2024-10-08,Peshawar,North,40,October
+369,Richard Wu,Backpack,Accessories,3,20,2024-11-23,Quetta,South,60,November
+370,David Cooper,Notebook,Books,3,5,2024-12-18,Islamabad,North,15,December
+371,Eddie Rivera,Jeans,Clothing,5,35,2024-10-09,Islamabad,North,175,October
+372,Allison Johnson,Mouse,Electronics,5,15,2024-11-26,Quetta,South,75,November
+373,Richard Payne,Book,Books,1,10,2024-10-12,Quetta,South,10,October
+374,Brian Sanders,Notebook,Books,2,5,2024-11-02,Lahore,North,10,November
+375,Christopher Tanner,Notebook,Books,3,5,2024-12-19,Lahore,North,15,December
+376,Jacob Franklin,Jeans,Clothing,5,35,2024-12-04,Quetta,South,175,December
+377,Hailey Smith,T-Shirt,Clothing,2,15,2024-11-06,Islamabad,North,30,November
+378,Nicole Villanueva,T-Shirt,Clothing,2,15,2024-10-05,Quetta,South,30,October
+379,Bradley Miller,Notebook,Books,4,5,2024-11-12,Quetta,South,20,November
+380,Kristin English,Book,Books,2,10,2024-10-21,Karachi,South,20,October
+381,Jill Reyes,Mouse,Electronics,5,15,2024-12-03,Peshawar,North,75,December
+382,Patty Good,Power Bank,Electronics,3,25,2024-12-14,Peshawar,North,75,December
+383,Faith Bell,Power Bank,Electronics,5,25,2024-11-08,Islamabad,North,125,November
+384,Tyler Grimes,Power Bank,Electronics,5,25,2024-11-28,Peshawar,North,125,November
+385,Monica Heath,Shoes,Clothing,5,30,2024-11-04,Karachi,South,150,November
+386,Michael Walker,Jeans,Clothing,5,35,2024-12-09,Quetta,South,175,December
+387,Maria Hughes,Shoes,Clothing,3,30,2024-12-09,Islamabad,North,90,December
+388,Beverly Rowe,Backpack,Accessories,2,20,2024-11-02,Islamabad,North,40,November
+389,Steve Nelson,Jeans,Clothing,4,35,2024-10-11,Islamabad,North,140,October
+390,Steven Copeland,Jeans,Clothing,4,35,2024-12-25,Quetta,South,140,December
+391,Barbara Baker,Power Bank,Electronics,1,25,2024-10-17,Lahore,North,25,October
+392,Mrs. Jasmine Lewis PhD,Power Bank,Electronics,5,25,2024-11-15,Quetta,South,125,November
+393,Timothy Woodard,Shoes,Clothing,3,30,2024-10-07,Islamabad,North,90,October
+394,Emily Orozco,Jeans,Clothing,5,35,2024-11-18,Lahore,North,175,November
+395,Michelle Stanley,Notebook,Books,1,5,2024-10-06,Islamabad,North,5,October
+396,Susan Sullivan,Jeans,Clothing,3,35,2024-11-17,Peshawar,North,105,November
+397,Robin Mckenzie,Power Bank,Electronics,1,25,2024-10-30,Quetta,South,25,October
+398,Morgan Pacheco,Notebook,Books,5,5,2024-11-02,Lahore,North,25,November
+399,Natasha Moran,Notebook,Books,1,5,2024-10-25,Karachi,South,5,October
+400,Christopher Smith,Mouse,Electronics,1,15,2024-11-11,Quetta,South,15,November
+401,Natalie Walker,Watch,Accessories,3,50,2024-12-09,Karachi,South,150,December
+402,Sarah Long,Notebook,Books,5,5,2024-10-28,Lahore,North,25,October
+403,Holly Russo MD,Jeans,Clothing,2,35,2024-12-11,Multan,South,70,December
+404,James Washington,Shoes,Clothing,5,30,2024-10-11,Quetta,South,150,October
+405,Christina Mullins,Shoes,Clothing,5,30,2024-11-06,Quetta,South,150,November
+406,Jennifer Esparza,Power Bank,Electronics,3,25,2024-12-21,Islamabad,North,75,December
+407,Amanda Leon MD,Watch,Accessories,1,50,2024-11-25,Karachi,South,50,November
+408,Danielle Shaw,Book,Books,2,10,2024-11-18,Peshawar,North,20,November
+409,Brooke Espinoza,Mouse,Electronics,4,15,2024-10-10,Karachi,South,60,October
+410,Andrew Wells,Mouse,Electronics,5,15,2024-12-29,Peshawar,North,75,December
+411,Lauren Roberts,T-Shirt,Clothing,1,15,2024-12-20,Lahore,North,15,December
+412,Ivan Jensen,Jeans,Clothing,5,35,2024-11-19,Multan,South,175,November
+413,Raymond Boone,T-Shirt,Clothing,5,15,2024-12-13,Lahore,North,75,December
+414,Kelly Young,Headphones,Electronics,5,40,2024-11-19,Islamabad,North,200,November
+415,Zachary Bautista,Headphones,Electronics,5,40,2024-12-10,Multan,South,200,December
+416,Brenda Walls,Jeans,Clothing,3,35,2024-10-18,Multan,South,105,October
+417,Matthew Rogers,Jeans,Clothing,3,35,2024-11-03,Lahore,North,105,November
+418,Maria Banks,Power Bank,Electronics,2,25,2024-12-02,Quetta,South,50,December
+419,Omar Rodgers,Notebook,Books,3,5,2024-10-25,Peshawar,North,15,October
+420,Edward Morgan,Jeans,Clothing,4,35,2024-10-01,Multan,South,140,October
+421,Maria Fernandez,Jeans,Clothing,2,35,2024-12-08,Karachi,South,70,December
+422,Ashley Wilson,Watch,Accessories,1,50,2024-12-27,Quetta,South,50,December
+423,Willie Willis,Notebook,Books,5,5,2024-12-09,Peshawar,North,25,December
+424,Robert Brooks,Headphones,Electronics,4,40,2024-10-05,Multan,South,160,October
+425,William Osborn,Mouse,Electronics,3,15,2024-11-29,Peshawar,North,45,November
+426,Claire Perez,Backpack,Accessories,5,20,2024-12-13,Multan,South,100,December
+427,Erica Miller,Jeans,Clothing,1,35,2024-10-31,Islamabad,North,35,October
+428,Cathy French,Jeans,Clothing,4,35,2024-12-12,Peshawar,North,140,December
+429,Cheryl Bradshaw,Book,Books,4,10,2024-11-27,Islamabad,North,40,November
+430,Gabriela Webb,Mouse,Electronics,5,15,2024-11-01,Karachi,South,75,November
+431,Andrea Nichols,Headphones,Electronics,2,40,2024-11-03,Peshawar,North,80,November
+432,Shawn Davis,Shoes,Clothing,5,30,2024-10-27,Peshawar,North,150,October
+433,Jennifer Johnson,Book,Books,1,10,2024-12-07,Quetta,South,10,December
+434,Lisa Sweeney,Notebook,Books,1,5,2024-12-28,Lahore,North,5,December
+435,Nicholas Hart,Shoes,Clothing,4,30,2024-11-27,Multan,South,120,November
+436,Kimberly Rice,Power Bank,Electronics,1,25,2024-10-08,Karachi,South,25,October
+437,Christina Jackson,Shoes,Clothing,5,30,2024-12-12,Islamabad,North,150,December
+438,Jessica Johnson,Jeans,Clothing,2,35,2024-10-22,Multan,South,70,October
+439,Danny Adams,Mouse,Electronics,4,15,2024-10-25,Karachi,South,60,October
+440,Jon Cain,Notebook,Books,5,5,2024-12-17,Quetta,South,25,December
+441,Keith Riley,T-Shirt,Clothing,1,15,2024-10-09,Quetta,South,15,October
+442,Melissa Shah,Backpack,Accessories,1,20,2024-10-17,Islamabad,North,20,October
+443,Kathryn Lawson,T-Shirt,Clothing,3,15,2024-11-20,Islamabad,North,45,November
+444,Barbara Bell,Shoes,Clothing,1,30,2024-11-22,Peshawar,North,30,November
+445,Angela Russell,Mouse,Electronics,2,15,2024-11-24,Islamabad,North,30,November
+446,Nicole Waters,Mouse,Electronics,4,15,2024-12-22,Peshawar,North,60,December
+447,Stephanie Foster,T-Shirt,Clothing,4,15,2024-10-14,Karachi,South,60,October
+448,Jessica Martinez,Notebook,Books,4,5,2024-10-27,Quetta,South,20,October
+449,Martin Woodard,Power Bank,Electronics,2,25,2024-10-16,Quetta,South,50,October
+450,Melissa Huff,Jeans,Clothing,5,35,2024-12-12,Quetta,South,175,December
+451,Lynn Crawford,Watch,Accessories,4,50,2024-10-14,Peshawar,North,200,October
+452,Sharon Wilson,Power Bank,Electronics,5,25,2024-11-26,Multan,South,125,November
+453,Benjamin Yates,Shoes,Clothing,5,30,2024-12-11,Quetta,South,150,December
+454,Elizabeth Castro,Watch,Accessories,1,50,2024-10-31,Quetta,South,50,October
+455,Amy Wheeler,T-Shirt,Clothing,2,15,2024-11-13,Quetta,South,30,November
+456,Kelsey Johnson MD,Shoes,Clothing,2,30,2024-11-15,Lahore,North,60,November
+457,Rachel Booker,Power Bank,Electronics,1,25,2024-12-27,Quetta,South,25,December
+458,Zachary Miranda,Book,Books,3,10,2024-10-27,Islamabad,North,30,October
+459,Kenneth Giles,Watch,Accessories,2,50,2024-10-23,Lahore,North,100,October
+460,Mrs. Shannon Macdonald,Mouse,Electronics,1,15,2024-12-27,Peshawar,North,15,December
+461,Brian Rogers,Watch,Accessories,4,50,2024-12-23,Multan,South,200,December
+462,Raymond Maxwell,Shoes,Clothing,2,30,2024-10-17,Multan,South,60,October
+463,Shelby Walker,Mouse,Electronics,4,15,2024-12-29,Karachi,South,60,December
+464,Jamie Key,Jeans,Clothing,2,35,2024-12-03,Quetta,South,70,December
+465,Ms. Kathy Guerrero,Jeans,Clothing,1,35,2024-12-05,Peshawar,North,35,December
+466,Mary Salazar,Notebook,Books,4,5,2024-12-22,Quetta,South,20,December
+467,Stephanie Murphy,Jeans,Clothing,5,35,2024-11-06,Quetta,South,175,November
+468,Randall Hernandez,Shoes,Clothing,3,30,2024-12-19,Karachi,South,90,December
+469,Gina Holland,Notebook,Books,1,5,2024-11-03,Karachi,South,5,November
+470,Caroline Mason,Backpack,Accessories,1,20,2024-12-18,Karachi,South,20,December
+471,Theresa Barry,Watch,Accessories,3,50,2024-10-01,Peshawar,North,150,October
+472,Brianna Price,Mouse,Electronics,5,15,2024-10-12,Quetta,South,75,October
+473,John Williams,Jeans,Clothing,5,35,2024-10-05,Lahore,North,175,October
+474,John Moore,Mouse,Electronics,3,15,2024-12-11,Islamabad,North,45,December
+475,Jennifer Floyd,Watch,Accessories,3,50,2024-10-13,Quetta,South,150,October
+476,Karen Soto,Shoes,Clothing,4,30,2024-10-18,Quetta,South,120,October
+477,Catherine Brown,Book,Books,2,10,2024-10-10,Karachi,South,20,October
+478,Kristie Lawson,Headphones,Electronics,3,40,2024-12-11,Multan,South,120,December
+479,Dr. Haley Lynch,Headphones,Electronics,4,40,2024-12-24,Islamabad,North,160,December
+480,Susan Johnson,Headphones,Electronics,2,40,2024-11-13,Islamabad,North,80,November
+481,Alexandra Jackson,Watch,Accessories,1,50,2024-10-09,Quetta,South,50,October
+482,Douglas Roberts,Shoes,Clothing,1,30,2024-11-09,Peshawar,North,30,November
+483,Nicole Wood,Headphones,Electronics,5,40,2024-12-01,Karachi,South,200,December
+484,Paul Black,Book,Books,5,10,2024-10-08,Peshawar,North,50,October
+485,Susan Gardner,Shoes,Clothing,5,30,2024-11-10,Lahore,North,150,November
+486,Anthony Charles,Notebook,Books,1,5,2024-11-04,Karachi,South,5,November
+487,Randall Johnson,Notebook,Books,4,5,2024-11-03,Lahore,North,20,November
+488,Shari Miller,Mouse,Electronics,4,15,2024-11-27,Multan,South,60,November
+489,Brett Dixon,T-Shirt,Clothing,5,15,2024-10-12,Peshawar,North,75,October
+490,Heather Welch,T-Shirt,Clothing,1,15,2024-10-03,Karachi,South,15,October
+491,Mark Powell,T-Shirt,Clothing,3,15,2024-10-01,Lahore,North,45,October
+492,Paula Williams,Mouse,Electronics,2,15,2024-11-05,Karachi,South,30,November
+493,Jodi Martin,Shoes,Clothing,5,30,2024-10-19,Peshawar,North,150,October
+494,Ethan Herrera,Watch,Accessories,2,50,2024-12-28,Quetta,South,100,December
+495,Kathy Ferguson,Watch,Accessories,1,50,2024-10-28,Islamabad,North,50,October
+496,David Zavala,Headphones,Electronics,2,40,2024-10-30,Quetta,South,80,October
+497,Regina Martinez,Mouse,Electronics,3,15,2024-12-03,Islamabad,North,45,December
+498,Robert Patterson,Jeans,Clothing,2,35,2024-10-01,Quetta,South,70,October
+499,Amanda Green,Shoes,Clothing,4,30,2024-12-03,Quetta,South,120,December
+500,Philip Black,Notebook,Books,2,5,2024-10-26,Lahore,North,10,October
+501,Gary Smith,Backpack,Accessories,5,20,2024-11-29,Lahore,North,100,November
+502,Andrew Romero,Jeans,Clothing,4,35,2024-12-27,Karachi,South,140,December
+503,Amy Fields,Notebook,Books,5,5,2024-12-28,Peshawar,North,25,December
+504,Jeffrey Jennings,Jeans,Clothing,4,35,2024-12-07,Islamabad,North,140,December
+505,Bryan Vaughn,Power Bank,Electronics,2,25,2024-12-29,Islamabad,North,50,December
+506,Allen Huffman,Headphones,Electronics,1,40,2024-12-03,Lahore,North,40,December
+507,Martha Crawford,Watch,Accessories,2,50,2024-12-12,Quetta,South,100,December
+508,Nancy Sawyer,Shoes,Clothing,5,30,2024-11-13,Peshawar,North,150,November
+509,Andrew Clark,T-Shirt,Clothing,4,15,2024-10-06,Quetta,South,60,October
+510,Brooke Sandoval,T-Shirt,Clothing,3,15,2024-12-05,Lahore,North,45,December
+511,Anthony Padilla,Power Bank,Electronics,3,25,2024-10-30,Quetta,South,75,October
+512,James Young,Jeans,Clothing,4,35,2024-10-11,Multan,South,140,October
+513,Michele Wilson,Headphones,Electronics,4,40,2024-11-20,Islamabad,North,160,November
+514,Megan Kidd,Notebook,Books,4,5,2024-10-24,Multan,South,20,October
+515,Justin Murphy,Power Bank,Electronics,5,25,2024-12-05,Lahore,North,125,December
+516,Gina Bullock,Backpack,Accessories,1,20,2024-10-31,Lahore,North,20,October
+517,Laura Jones,Book,Books,4,10,2024-10-23,Lahore,North,40,October
+518,Brandon Brooks,Backpack,Accessories,2,20,2024-10-20,Quetta,South,40,October
+519,Phyllis Mendoza,Jeans,Clothing,1,35,2024-12-13,Multan,South,35,December
+520,Sharon Olson,Book,Books,5,10,2024-12-25,Islamabad,North,50,December
+521,Courtney Green,Shoes,Clothing,4,30,2024-11-09,Karachi,South,120,November
+522,Daniel Johnson,T-Shirt,Clothing,1,15,2024-11-12,Peshawar,North,15,November
+523,Patty Weaver,Mouse,Electronics,3,15,2024-11-14,Karachi,South,45,November
+524,Melanie Jackson,Backpack,Accessories,2,20,2024-11-16,Quetta,South,40,November
+525,Amber Green,Shoes,Clothing,2,30,2024-10-18,Islamabad,North,60,October
+526,Courtney Nguyen,Jeans,Clothing,1,35,2024-10-30,Karachi,South,35,October
+527,April Branch,Watch,Accessories,5,50,2024-12-07,Lahore,North,250,December
+528,Jennifer Medina,Mouse,Electronics,2,15,2024-12-27,Lahore,North,30,December
+529,Leah Avila,Jeans,Clothing,1,35,2024-10-28,Karachi,South,35,October
+530,David Hopkins,Headphones,Electronics,2,40,2024-10-30,Multan,South,80,October
+531,Amanda Rowe,Mouse,Electronics,3,15,2024-12-20,Multan,South,45,December
+532,Sarah Francis,Mouse,Electronics,1,15,2024-11-01,Karachi,South,15,November
+533,Brett Bullock,Shoes,Clothing,4,30,2024-11-08,Multan,South,120,November
+534,Andrew Daniel,Book,Books,3,10,2024-11-12,Lahore,North,30,November
+535,Justin Smith,T-Shirt,Clothing,1,15,2024-11-17,Islamabad,North,15,November
+536,Dr. Joseph Ferrell MD,T-Shirt,Clothing,3,15,2024-10-08,Peshawar,North,45,October
+537,Sherry Tucker,Backpack,Accessories,3,20,2024-10-27,Quetta,South,60,October
+538,Judith Duncan,Watch,Accessories,2,50,2024-12-01,Quetta,South,100,December
+539,Laura Jackson,Shoes,Clothing,4,30,2024-11-18,Lahore,North,120,November
+540,Michele Hunter,Shoes,Clothing,4,30,2024-12-12,Multan,South,120,December
+541,Jamie Watson,Power Bank,Electronics,1,25,2024-11-27,Islamabad,North,25,November
+542,Eugene Stevens,T-Shirt,Clothing,1,15,2024-10-25,Karachi,South,15,October
+543,Ellen Dawson,Jeans,Clothing,3,35,2024-12-14,Lahore,North,105,December
+544,Timothy Mcdaniel,Mouse,Electronics,4,15,2024-11-17,Karachi,South,60,November
+545,Dorothy Stone DVM,Watch,Accessories,4,50,2024-10-30,Karachi,South,200,October
+546,Henry Pearson,Notebook,Books,3,5,2024-10-16,Islamabad,North,15,October
+547,Heather Morgan,Watch,Accessories,5,50,2024-10-08,Peshawar,North,250,October
+548,Todd Reed,Shoes,Clothing,1,30,2024-11-09,Multan,South,30,November
+549,Robert Meyers,Backpack,Accessories,2,20,2024-10-28,Peshawar,North,40,October
+550,Laura King MD,Power Bank,Electronics,5,25,2024-12-27,Islamabad,North,125,December
+551,Yesenia Walters,Book,Books,1,10,2024-10-08,Quetta,South,10,October
+552,Chris Marquez,Jeans,Clothing,3,35,2024-10-18,Quetta,South,105,October
+553,Daniel Walsh,Watch,Accessories,5,50,2024-12-03,Lahore,North,250,December
+554,Sherri Randolph MD,Headphones,Electronics,3,40,2024-10-04,Multan,South,120,October
+555,Alexandra Valdez,Mouse,Electronics,5,15,2024-10-19,Peshawar,North,75,October
+556,Jennifer Allen,Backpack,Accessories,4,20,2024-12-30,Quetta,South,80,December
+557,Alexander Stephens,Watch,Accessories,5,50,2024-12-29,Karachi,South,250,December
+558,Adam Carter,Book,Books,3,10,2024-12-22,Peshawar,North,30,December
+559,Jennifer Hudson,Headphones,Electronics,5,40,2024-10-14,Lahore,North,200,October
+560,Kevin Simon,Jeans,Clothing,1,35,2024-11-08,Karachi,South,35,November
+561,Jacob Ballard,Backpack,Accessories,1,20,2024-12-23,Quetta,South,20,December
+562,Damon Randolph,Mouse,Electronics,1,15,2024-11-28,Peshawar,North,15,November
+563,Robert Coffey,Headphones,Electronics,1,40,2024-11-09,Karachi,South,40,November
+564,Stephanie Gray,Watch,Accessories,5,50,2024-12-10,Quetta,South,250,December
+565,Stephanie Gonzalez DVM,Mouse,Electronics,2,15,2024-11-20,Multan,South,30,November
+566,Diana Graham,Notebook,Books,4,5,2024-11-15,Peshawar,North,20,November
+567,Thomas Walsh,Watch,Accessories,5,50,2024-11-12,Quetta,South,250,November
+568,Alexandra Jones,Jeans,Clothing,4,35,2024-12-09,Quetta,South,140,December
+569,Zachary Malone,T-Shirt,Clothing,1,15,2024-11-04,Islamabad,North,15,November
+570,Steven Hall,Mouse,Electronics,4,15,2024-11-13,Quetta,South,60,November
+571,Pamela Marks,Book,Books,3,10,2024-12-05,Karachi,South,30,December
+572,Michael Perez,Headphones,Electronics,3,40,2024-10-02,Peshawar,North,120,October
+573,Laurie Mueller,T-Shirt,Clothing,5,15,2024-12-11,Lahore,North,75,December
+574,Miranda Morales,Headphones,Electronics,4,40,2024-12-29,Islamabad,North,160,December
+575,Judith Mathis,Notebook,Books,4,5,2024-10-26,Quetta,South,20,October
+576,Brandon Burch,Power Bank,Electronics,1,25,2024-10-03,Multan,South,25,October
+577,Gabrielle Knight,Backpack,Accessories,5,20,2024-10-25,Quetta,South,100,October
+578,Isaiah Tucker,Backpack,Accessories,5,20,2024-10-06,Peshawar,North,100,October
+579,Jimmy Villarreal,Power Bank,Electronics,5,25,2024-12-30,Karachi,South,125,December
+580,Justin Garcia,Notebook,Books,4,5,2024-10-17,Lahore,North,20,October
+581,Raymond Mitchell,Headphones,Electronics,5,40,2024-11-09,Quetta,South,200,November
+582,Michael Rose,Backpack,Accessories,4,20,2024-11-03,Karachi,South,80,November
+583,Jason Johnson,Headphones,Electronics,2,40,2024-10-08,Karachi,South,80,October
+584,Michael Jones,Power Bank,Electronics,2,25,2024-12-30,Lahore,North,50,December
+585,Michelle Huang,Shoes,Clothing,5,30,2024-10-20,Lahore,North,150,October
+586,Amy Mclaughlin,Watch,Accessories,5,50,2024-10-22,Quetta,South,250,October
+587,Brenda Mccormick,Shoes,Clothing,4,30,2024-10-08,Islamabad,North,120,October
+588,Jamie Rivera,Backpack,Accessories,2,20,2024-11-10,Islamabad,North,40,November
+589,Anthony Rivera,Jeans,Clothing,3,35,2024-11-05,Peshawar,North,105,November
+590,Whitney Burke,T-Shirt,Clothing,4,15,2024-12-15,Multan,South,60,December
+591,Alexandra Frazier,Mouse,Electronics,5,15,2024-12-05,Multan,South,75,December
+592,Amanda Medina,Headphones,Electronics,2,40,2024-10-04,Multan,South,80,October
+593,Justin Young,Power Bank,Electronics,3,25,2024-11-08,Peshawar,North,75,November
+594,Daniel Clark,Headphones,Electronics,4,40,2024-11-19,Peshawar,North,160,November
+595,Betty Stephens,Headphones,Electronics,1,40,2024-11-12,Lahore,North,40,November
+596,Stacey Cox,Power Bank,Electronics,2,25,2024-10-20,Karachi,South,50,October
+597,Teresa Harper,Power Bank,Electronics,4,25,2024-11-17,Multan,South,100,November
+598,Donald Coleman,Mouse,Electronics,2,15,2024-10-19,Multan,South,30,October
+599,Denise Waller,Headphones,Electronics,1,40,2024-11-30,Multan,South,40,November
+600,Lindsey Holt,Mouse,Electronics,4,15,2024-12-01,Quetta,South,60,December
+601,Ian Fox,Book,Books,3,10,2024-10-31,Peshawar,North,30,October
+602,Gabrielle Hernandez,Notebook,Books,2,5,2024-12-16,Multan,South,10,December
+603,Sean Bryant,Headphones,Electronics,1,40,2024-12-07,Peshawar,North,40,December
+604,Lisa Morris,Mouse,Electronics,3,15,2024-11-24,Multan,South,45,November
+605,Angela Cox,Book,Books,1,10,2024-11-11,Islamabad,North,10,November
+606,Barbara Gallagher,Shoes,Clothing,3,30,2024-12-18,Multan,South,90,December
+607,Brittany Jackson,Backpack,Accessories,4,20,2024-11-02,Multan,South,80,November
+608,Joshua Stewart,Power Bank,Electronics,2,25,2024-12-16,Peshawar,North,50,December
+609,Dustin Ward,Mouse,Electronics,5,15,2024-11-02,Karachi,South,75,November
+610,Bryan Williams,Headphones,Electronics,3,40,2024-11-22,Quetta,South,120,November
+611,John Stewart,Shoes,Clothing,2,30,2024-11-27,Quetta,South,60,November
+612,Anthony Leach,Watch,Accessories,5,50,2024-11-03,Islamabad,North,250,November
+613,Carrie Stein,Mouse,Electronics,4,15,2024-11-19,Karachi,South,60,November
+614,Melissa Taylor,Mouse,Electronics,3,15,2024-11-21,Lahore,North,45,November
+615,James Anderson,Watch,Accessories,1,50,2024-11-21,Karachi,South,50,November
+616,Michael Davenport,T-Shirt,Clothing,2,15,2024-11-11,Multan,South,30,November
+617,Sonya Rivera,Backpack,Accessories,2,20,2024-10-05,Lahore,North,40,October
+618,Linda Robinson,Book,Books,5,10,2024-11-28,Quetta,South,50,November
+619,Gregory Scott,Power Bank,Electronics,5,25,2024-11-29,Karachi,South,125,November
+620,Michelle Johnson,Book,Books,3,10,2024-11-19,Lahore,North,30,November
+621,Jason Bryant,Shoes,Clothing,5,30,2024-11-08,Multan,South,150,November
+622,Mikayla Hicks,Power Bank,Electronics,4,25,2024-10-30,Peshawar,North,100,October
+623,William Fox,Shoes,Clothing,4,30,2024-10-09,Islamabad,North,120,October
+624,Brian Harris,T-Shirt,Clothing,4,15,2024-12-05,Multan,South,60,December
+625,Meredith Anderson,Jeans,Clothing,2,35,2024-11-14,Lahore,North,70,November
+626,Larry Rodriguez,Jeans,Clothing,4,35,2024-10-12,Karachi,South,140,October
+627,Michelle Garcia,Mouse,Electronics,5,15,2024-10-29,Peshawar,North,75,October
+628,Jonathan Houston,T-Shirt,Clothing,5,15,2024-11-15,Islamabad,North,75,November
+629,Jenna Williams,Shoes,Clothing,3,30,2024-12-27,Quetta,South,90,December
+630,Robert Weeks,Watch,Accessories,3,50,2024-12-11,Quetta,South,150,December
+631,Crystal Schroeder,Mouse,Electronics,5,15,2024-12-19,Multan,South,75,December
+632,Michelle Gonzalez,Backpack,Accessories,1,20,2024-12-21,Multan,South,20,December
+633,Steven Cruz,Jeans,Clothing,3,35,2024-10-16,Peshawar,North,105,October
+634,Rebecca Morse,Watch,Accessories,4,50,2024-12-16,Quetta,South,200,December
+635,Lauren Ward,Power Bank,Electronics,2,25,2024-10-02,Quetta,South,50,October
+636,Vincent Jones,Book,Books,2,10,2024-11-23,Lahore,North,20,November
+637,Sean Finley,Notebook,Books,2,5,2024-12-18,Quetta,South,10,December
+638,Mrs. Stacy May,Mouse,Electronics,1,15,2024-10-10,Islamabad,North,15,October
+639,Gina Boyd,Jeans,Clothing,5,35,2024-10-28,Quetta,South,175,October
+640,John Hardy,Book,Books,5,10,2024-11-30,Karachi,South,50,November
+641,Jennifer Mcgee,Shoes,Clothing,2,30,2024-11-28,Quetta,South,60,November
+642,Michael Edwards,Power Bank,Electronics,4,25,2024-12-08,Karachi,South,100,December
+643,Jeffery Pearson,Headphones,Electronics,4,40,2024-10-20,Peshawar,North,160,October
+644,James Cameron,Notebook,Books,3,5,2024-11-08,Quetta,South,15,November
+645,Kayla Flores,Backpack,Accessories,5,20,2024-11-27,Islamabad,North,100,November
+646,Jamie Allen,Headphones,Electronics,2,40,2024-10-16,Quetta,South,80,October
+647,Jill Taylor,T-Shirt,Clothing,2,15,2024-12-22,Karachi,South,30,December
+648,Mrs. Mary Johnson,Shoes,Clothing,3,30,2024-10-26,Islamabad,North,90,October
+649,Alan Park,T-Shirt,Clothing,1,15,2024-12-29,Karachi,South,15,December
+650,Jacqueline Jones,Mouse,Electronics,2,15,2024-12-12,Multan,South,30,December
+651,Nicholas Adams,Headphones,Electronics,2,40,2024-11-18,Islamabad,North,80,November
+652,Dr. Sarah Ellison DVM,Book,Books,5,10,2024-11-10,Peshawar,North,50,November
+653,Margaret Nguyen,Watch,Accessories,1,50,2024-12-15,Karachi,South,50,December
+654,Darryl Acosta,Power Bank,Electronics,5,25,2024-11-10,Multan,South,125,November
+655,Arthur Fuller,Notebook,Books,1,5,2024-10-30,Lahore,North,5,October
+656,Rebecca Fox,Book,Books,5,10,2024-11-07,Peshawar,North,50,November
+657,Rebecca Baldwin,Jeans,Clothing,5,35,2024-12-10,Lahore,North,175,December
+658,John Fuentes,Power Bank,Electronics,5,25,2024-11-30,Lahore,North,125,November
+659,David Acevedo,Backpack,Accessories,1,20,2024-12-07,Islamabad,North,20,December
+660,Dean Robinson,T-Shirt,Clothing,5,15,2024-10-05,Islamabad,North,75,October
+661,Ryan Weber,Watch,Accessories,3,50,2024-10-22,Karachi,South,150,October
+662,Matthew Strong,T-Shirt,Clothing,4,15,2024-10-17,Karachi,South,60,October
+663,Tyler Chavez,Book,Books,4,10,2024-12-30,Peshawar,North,40,December
+664,Jorge Wolf,Headphones,Electronics,3,40,2024-11-06,Islamabad,North,120,November
+665,Tamara Mack,Mouse,Electronics,3,15,2024-12-08,Multan,South,45,December
+666,Jacob Ward,Watch,Accessories,1,50,2024-10-25,Peshawar,North,50,October
+667,Elizabeth Patel,Backpack,Accessories,1,20,2024-10-25,Multan,South,20,October
+668,Linda King,Power Bank,Electronics,1,25,2024-11-23,Karachi,South,25,November
+669,Destiny Thornton,Jeans,Clothing,3,35,2024-10-15,Peshawar,North,105,October
+670,Kathleen Park,Watch,Accessories,2,50,2024-10-31,Karachi,South,100,October
+671,Richard Jones,Headphones,Electronics,4,40,2024-10-27,Islamabad,North,160,October
+672,Julie Francis,Book,Books,4,10,2024-12-26,Peshawar,North,40,December
+673,Lindsey Stewart,Shoes,Clothing,1,30,2024-11-26,Multan,South,30,November
+674,Maria Collier,Power Bank,Electronics,4,25,2024-12-03,Peshawar,North,100,December
+675,Tina Cook,Mouse,Electronics,4,15,2024-10-18,Lahore,North,60,October
+676,Brandi Oneal,Jeans,Clothing,1,35,2024-10-18,Multan,South,35,October
+677,Deanna Hines,Jeans,Clothing,4,35,2024-11-17,Peshawar,North,140,November
+678,Alexis Hamilton,Shoes,Clothing,1,30,2024-12-12,Karachi,South,30,December
+679,April Mclaughlin,Backpack,Accessories,3,20,2024-10-11,Islamabad,North,60,October
+680,Mary Baker,Watch,Accessories,4,50,2024-12-15,Islamabad,North,200,December
+681,Matthew Combs,T-Shirt,Clothing,2,15,2024-10-30,Quetta,South,30,October
+682,Kristin Padilla,Jeans,Clothing,3,35,2024-10-17,Karachi,South,105,October
+683,Taylor Newton,Notebook,Books,4,5,2024-12-26,Multan,South,20,December
+684,Wesley Patterson,Backpack,Accessories,4,20,2024-10-19,Multan,South,80,October
+685,Daniel Edwards,Backpack,Accessories,1,20,2024-11-04,Karachi,South,20,November
+686,Kayla Edwards,Shoes,Clothing,3,30,2024-11-26,Multan,South,90,November
+687,April Houston,Notebook,Books,5,5,2024-12-06,Islamabad,North,25,December
+688,Nathaniel Foster,Watch,Accessories,5,50,2024-11-18,Karachi,South,250,November
+689,John Ortega,Backpack,Accessories,5,20,2024-12-06,Peshawar,North,100,December
+690,Willie Rios,Mouse,Electronics,2,15,2024-11-05,Lahore,North,30,November
+691,Mark Kirby,Power Bank,Electronics,3,25,2024-11-18,Lahore,North,75,November
+692,Thomas Rodgers,Book,Books,1,10,2024-10-19,Peshawar,North,10,October
+693,Christina Mcneil,Mouse,Electronics,3,15,2024-12-05,Multan,South,45,December
+694,Tyler Adams,Book,Books,4,10,2024-12-05,Multan,South,40,December
+695,Allison Best,Jeans,Clothing,1,35,2024-11-29,Quetta,South,35,November
+696,Darryl Taylor,Book,Books,4,10,2024-12-29,Multan,South,40,December
+697,Laura Wallace,Backpack,Accessories,2,20,2024-12-25,Islamabad,North,40,December
+698,Rachel Smith,Jeans,Clothing,1,35,2024-10-30,Lahore,North,35,October
+699,Robert Hendrix,Watch,Accessories,1,50,2024-10-12,Quetta,South,50,October
+700,Laura Esparza,Book,Books,5,10,2024-12-08,Quetta,South,50,December
+701,Joseph Downs,Watch,Accessories,1,50,2024-11-06,Lahore,North,50,November
+702,Isabella Robinson,Jeans,Clothing,5,35,2024-10-20,Islamabad,North,175,October
+703,Courtney Rubio,Jeans,Clothing,1,35,2024-10-17,Karachi,South,35,October
+704,Laura Kaiser,Jeans,Clothing,4,35,2024-12-11,Lahore,North,140,December
+705,Amanda Reyes,T-Shirt,Clothing,2,15,2024-12-05,Islamabad,North,30,December
+706,Seth Bryant,T-Shirt,Clothing,2,15,2024-10-22,Quetta,South,30,October
+707,Kara Hahn,Power Bank,Electronics,1,25,2024-10-24,Multan,South,25,October
+708,Stephanie Joyce,Book,Books,3,10,2024-10-04,Islamabad,North,30,October
+709,Christopher Pierce,Jeans,Clothing,2,35,2024-10-07,Islamabad,North,70,October
+710,Thomas Smith,Book,Books,3,10,2024-10-16,Peshawar,North,30,October
+711,Kenneth Rivas,Mouse,Electronics,1,15,2024-10-09,Islamabad,North,15,October
+712,Javier Pratt,Watch,Accessories,4,50,2024-10-07,Multan,South,200,October
+713,Kristen Curtis,Power Bank,Electronics,4,25,2024-11-03,Lahore,North,100,November
+714,Charles Zimmerman,Watch,Accessories,3,50,2024-11-09,Lahore,North,150,November
+715,Jacob Abbott,Notebook,Books,5,5,2024-12-23,Lahore,North,25,December
+716,Adam Avery,T-Shirt,Clothing,3,15,2024-12-11,Karachi,South,45,December
+717,Joshua Ellis,T-Shirt,Clothing,4,15,2024-12-01,Multan,South,60,December
+718,Todd Moran,Jeans,Clothing,3,35,2024-11-28,Quetta,South,105,November
+719,Stephanie Thomas,T-Shirt,Clothing,3,15,2024-10-17,Multan,South,45,October
+720,Daniel Lopez,Power Bank,Electronics,3,25,2024-11-14,Islamabad,North,75,November
+721,Michelle Graham,Book,Books,1,10,2024-11-19,Lahore,North,10,November
+722,Charles Davis,Power Bank,Electronics,3,25,2024-11-26,Quetta,South,75,November
+723,Jeffrey Velasquez,Notebook,Books,4,5,2024-12-16,Peshawar,North,20,December
+724,Kristine Moreno,Backpack,Accessories,5,20,2024-10-10,Karachi,South,100,October
+725,Emily Chang,Notebook,Books,1,5,2024-12-27,Islamabad,North,5,December
+726,Jorge Wilson,Book,Books,5,10,2024-10-29,Multan,South,50,October
+727,Matthew Novak,Jeans,Clothing,1,35,2024-12-20,Islamabad,North,35,December
+728,Rebecca Pope,Shoes,Clothing,3,30,2024-11-30,Quetta,South,90,November
+729,Robert Davis,Backpack,Accessories,4,20,2024-12-28,Islamabad,North,80,December
+730,Kayla Lane,Power Bank,Electronics,4,25,2024-11-28,Peshawar,North,100,November
+731,John Thomas,Book,Books,2,10,2024-12-11,Islamabad,North,20,December
+732,Jason Gibson,T-Shirt,Clothing,5,15,2024-10-25,Islamabad,North,75,October
+733,Melissa Carpenter,Mouse,Electronics,1,15,2024-12-25,Quetta,South,15,December
+734,Kristin Murphy,Shoes,Clothing,4,30,2024-10-25,Peshawar,North,120,October
+735,Raymond Hardy,T-Shirt,Clothing,5,15,2024-10-17,Quetta,South,75,October
+736,Regina Wallace,Mouse,Electronics,5,15,2024-11-09,Islamabad,North,75,November
+737,Jonathan Davidson,Mouse,Electronics,2,15,2024-12-15,Islamabad,North,30,December
+738,Wayne Torres,Shoes,Clothing,2,30,2024-10-15,Karachi,South,60,October
+739,Susan Allen,Jeans,Clothing,3,35,2024-10-21,Peshawar,North,105,October
+740,Anthony Keller,Mouse,Electronics,2,15,2024-10-13,Lahore,North,30,October
+741,Joshua Mckinney DVM,Book,Books,5,10,2024-11-04,Quetta,South,50,November
+742,Michele Chandler,T-Shirt,Clothing,1,15,2024-11-28,Islamabad,North,15,November
+743,Paul Boyle,Book,Books,2,10,2024-10-03,Islamabad,North,20,October
+744,Leroy Henry,Headphones,Electronics,3,40,2024-10-15,Karachi,South,120,October
+745,Peter Harris,Shoes,Clothing,2,30,2024-11-30,Peshawar,North,60,November
+746,Danielle Wang,Jeans,Clothing,3,35,2024-12-02,Karachi,South,105,December
+747,Chad Franco,Jeans,Clothing,3,35,2024-11-10,Multan,South,105,November
+748,Christopher Gray,Jeans,Clothing,3,35,2024-11-14,Multan,South,105,November
+749,Ashley Allen,Watch,Accessories,4,50,2024-11-01,Quetta,South,200,November
+750,Phillip Ware,Watch,Accessories,2,50,2024-11-06,Quetta,South,100,November
+751,Tanya Larsen,Backpack,Accessories,3,20,2024-11-08,Multan,South,60,November
+752,Brady Black,Jeans,Clothing,4,35,2024-10-18,Islamabad,North,140,October
+753,Jacqueline Hicks,Shoes,Clothing,5,30,2024-11-11,Multan,South,150,November
+754,Brittany Cortez,Headphones,Electronics,4,40,2024-12-21,Karachi,South,160,December
+755,Shane Sims,Notebook,Books,5,5,2024-12-26,Multan,South,25,December
+756,Leslie Mack,Watch,Accessories,5,50,2024-10-07,Quetta,South,250,October
+757,Candice Barnett,Watch,Accessories,3,50,2024-10-22,Quetta,South,150,October
+758,James Watkins,Power Bank,Electronics,1,25,2024-10-14,Peshawar,North,25,October
+759,April Vang,T-Shirt,Clothing,2,15,2024-11-06,Karachi,South,30,November
+760,Kaitlin Walker,T-Shirt,Clothing,2,15,2024-12-04,Multan,South,30,December
+761,Christopher Kim,Notebook,Books,1,5,2024-12-18,Lahore,North,5,December
+762,Paul Murphy,Book,Books,3,10,2024-10-02,Lahore,North,30,October
+763,Gregory Anderson,Power Bank,Electronics,3,25,2024-10-09,Islamabad,North,75,October
+764,Holly Smith,Book,Books,4,10,2024-12-15,Islamabad,North,40,December
+765,Rebecca Patel,Power Bank,Electronics,2,25,2024-12-30,Karachi,South,50,December
+766,Scott Martinez,Jeans,Clothing,5,35,2024-11-03,Multan,South,175,November
+767,Jennifer Flowers,Jeans,Clothing,1,35,2024-12-09,Islamabad,North,35,December
+768,Stacey Watson,Book,Books,4,10,2024-11-14,Islamabad,North,40,November
+769,Edwin Perez,Shoes,Clothing,3,30,2024-12-02,Peshawar,North,90,December
+770,Thomas Bowen,Book,Books,5,10,2024-11-16,Multan,South,50,November
+771,Maria Villarreal,Mouse,Electronics,1,15,2024-10-28,Lahore,North,15,October
+772,Laura Gonzalez,Mouse,Electronics,3,15,2024-10-19,Quetta,South,45,October
+773,Randy Thompson,Notebook,Books,1,5,2024-12-09,Karachi,South,5,December
+774,Randy Taylor,Jeans,Clothing,4,35,2024-12-17,Peshawar,North,140,December
+775,Mary Rogers,Mouse,Electronics,5,15,2024-12-17,Lahore,North,75,December
+776,Katherine Barnes,T-Shirt,Clothing,5,15,2024-10-07,Quetta,South,75,October
+777,Tracy Weber,Mouse,Electronics,5,15,2024-10-17,Peshawar,North,75,October
+778,Michael Reed,Headphones,Electronics,1,40,2024-10-01,Lahore,North,40,October
+779,Allen Strickland,T-Shirt,Clothing,5,15,2024-11-16,Karachi,South,75,November
+780,Nicole Johnson,Power Bank,Electronics,5,25,2024-10-03,Peshawar,North,125,October
+781,Anthony Garcia,Mouse,Electronics,3,15,2024-11-05,Islamabad,North,45,November
+782,Rita Jenkins,Mouse,Electronics,2,15,2024-10-31,Karachi,South,30,October
+783,Megan Rivers,Backpack,Accessories,2,20,2024-12-14,Quetta,South,40,December
+784,Felicia Walker,Jeans,Clothing,3,35,2024-11-28,Quetta,South,105,November
+785,Nancy Crosby,Headphones,Electronics,1,40,2024-11-15,Peshawar,North,40,November
+786,William Bowman,Watch,Accessories,1,50,2024-10-27,Peshawar,North,50,October
+787,John Miller,Headphones,Electronics,2,40,2024-10-07,Islamabad,North,80,October
+788,Amanda Moore,Power Bank,Electronics,3,25,2024-10-22,Lahore,North,75,October
+789,Taylor Glenn,Backpack,Accessories,5,20,2024-10-21,Lahore,North,100,October
+790,Denise Schmidt,Backpack,Accessories,3,20,2024-12-10,Quetta,South,60,December
+791,David Fowler,Headphones,Electronics,5,40,2024-12-10,Karachi,South,200,December
+792,Karen Dalton,Jeans,Clothing,4,35,2024-12-22,Lahore,North,140,December
+793,Stephanie Brown,Jeans,Clothing,3,35,2024-12-28,Islamabad,North,105,December
+794,Marcus Larson,Headphones,Electronics,5,40,2024-10-07,Lahore,North,200,October
+795,April Ray,Headphones,Electronics,5,40,2024-12-17,Lahore,North,200,December
+796,Kayla Cole,Watch,Accessories,4,50,2024-12-05,Islamabad,North,200,December
+797,Martin Little,Mouse,Electronics,5,15,2024-10-14,Islamabad,North,75,October
+798,Luke Walker,Jeans,Clothing,1,35,2024-10-24,Karachi,South,35,October
+799,Audrey Hernandez,Notebook,Books,4,5,2024-10-24,Islamabad,North,20,October
+800,Suzanne Hanson,Book,Books,1,10,2024-11-06,Islamabad,North,10,November
+801,Nicole Hicks,Shoes,Clothing,5,30,2024-11-17,Lahore,North,150,November
+802,Erica Jackson,Mouse,Electronics,5,15,2024-11-21,Multan,South,75,November
+803,Amanda Chan,Shoes,Clothing,5,30,2024-12-09,Lahore,North,150,December
+804,Michelle Robinson,Notebook,Books,4,5,2024-11-22,Quetta,South,20,November
+805,Todd Brown,Headphones,Electronics,3,40,2024-11-20,Multan,South,120,November
+806,Richard Meyer,Shoes,Clothing,5,30,2024-10-17,Lahore,North,150,October
+807,Jordan Obrien,T-Shirt,Clothing,3,15,2024-11-30,Islamabad,North,45,November
+808,Stephen Walsh,Jeans,Clothing,2,35,2024-12-05,Peshawar,North,70,December
+809,Reginald Miller,Notebook,Books,5,5,2024-12-01,Peshawar,North,25,December
+810,Joseph Brown,Headphones,Electronics,2,40,2024-12-02,Lahore,North,80,December
+811,Timothy Smith,Book,Books,2,10,2024-10-30,Multan,South,20,October
+812,Charles Simmons,Headphones,Electronics,1,40,2024-12-12,Quetta,South,40,December
+813,Corey Shaw,Watch,Accessories,4,50,2024-10-17,Islamabad,North,200,October
+814,Ronald Kennedy,Headphones,Electronics,5,40,2024-10-10,Islamabad,North,200,October
+815,Brian Berry,Book,Books,5,10,2024-11-10,Quetta,South,50,November
+816,John Smith,Backpack,Accessories,2,20,2024-10-17,Peshawar,North,40,October
+817,Mrs. Melanie Thomas DVM,Jeans,Clothing,4,35,2024-12-05,Multan,South,140,December
+818,Jerry Villanueva,Headphones,Electronics,2,40,2024-10-08,Peshawar,North,80,October
+819,Jeffrey Martin,Mouse,Electronics,1,15,2024-10-28,Multan,South,15,October
+820,Jennifer Elliott,Book,Books,3,10,2024-10-06,Islamabad,North,30,October
+821,Jessica Brown,Watch,Accessories,2,50,2024-12-26,Peshawar,North,100,December
+822,Lori Cox,Book,Books,1,10,2024-12-17,Karachi,South,10,December
+823,Kimberly Wells,Book,Books,1,10,2024-12-19,Lahore,North,10,December
+824,Christopher Sanchez,Backpack,Accessories,4,20,2024-11-09,Karachi,South,80,November
+825,Lisa Ryan,Jeans,Clothing,5,35,2024-12-26,Quetta,South,175,December
+826,Angela Williams,Mouse,Electronics,5,15,2024-12-01,Quetta,South,75,December
+827,Susan Young,Headphones,Electronics,1,40,2024-11-21,Islamabad,North,40,November
+828,April Watson,Shoes,Clothing,1,30,2024-12-09,Peshawar,North,30,December
+829,Christina Mccoy,Backpack,Accessories,5,20,2024-10-15,Karachi,South,100,October
+830,Kimberly Schneider,Power Bank,Electronics,2,25,2024-11-12,Quetta,South,50,November
+831,Valerie Campbell,Backpack,Accessories,3,20,2024-10-05,Multan,South,60,October
+832,Taylor Tapia,Watch,Accessories,2,50,2024-10-20,Peshawar,North,100,October
+833,Sabrina Jones,Book,Books,4,10,2024-10-25,Quetta,South,40,October
+834,Rachel Johnson PhD,Mouse,Electronics,1,15,2024-10-12,Islamabad,North,15,October
+835,Brenda Mitchell,Watch,Accessories,2,50,2024-11-30,Peshawar,North,100,November
+836,Joshua Pacheco,T-Shirt,Clothing,1,15,2024-11-18,Karachi,South,15,November
+837,Anthony Aguirre,Jeans,Clothing,3,35,2024-10-26,Lahore,North,105,October
+838,Jessica Fuentes,T-Shirt,Clothing,4,15,2024-12-14,Multan,South,60,December
+839,Dr. Danielle King MD,Watch,Accessories,3,50,2024-12-03,Karachi,South,150,December
+840,Brittany Davis,Mouse,Electronics,5,15,2024-11-24,Karachi,South,75,November
+841,Katie Walker,Jeans,Clothing,2,35,2024-10-12,Lahore,North,70,October
+842,Jessica Cummings,Jeans,Clothing,3,35,2024-12-25,Multan,South,105,December
+843,Jason Smith,Notebook,Books,5,5,2024-10-14,Quetta,South,25,October
+844,Cynthia Garner,T-Shirt,Clothing,4,15,2024-10-20,Karachi,South,60,October
+845,Henry Brennan,T-Shirt,Clothing,2,15,2024-12-17,Islamabad,North,30,December
+846,Sean Sampson,T-Shirt,Clothing,2,15,2024-10-27,Multan,South,30,October
+847,Jill Watkins,Shoes,Clothing,4,30,2024-11-12,Quetta,South,120,November
+848,Tracy Foster,Mouse,Electronics,2,15,2024-11-18,Lahore,North,30,November
+849,Robin Wright,Backpack,Accessories,4,20,2024-12-29,Lahore,North,80,December
+850,Jerry Duncan,Headphones,Electronics,4,40,2024-10-02,Peshawar,North,160,October
+851,Crystal Cook,Mouse,Electronics,2,15,2024-12-18,Multan,South,30,December
+852,Jordan Simpson,Notebook,Books,1,5,2024-11-18,Quetta,South,5,November
+853,Frank Cunningham,T-Shirt,Clothing,3,15,2024-11-18,Peshawar,North,45,November
+854,Jacob Cooper,Jeans,Clothing,4,35,2024-12-01,Karachi,South,140,December
+855,Rebecca Riggs,Shoes,Clothing,1,30,2024-12-11,Multan,South,30,December
+856,Andrew Morales,Power Bank,Electronics,3,25,2024-12-07,Lahore,North,75,December
+857,Justin Peterson,Watch,Accessories,2,50,2024-10-01,Peshawar,North,100,October
+858,Daniel Barnes,Mouse,Electronics,4,15,2024-11-29,Quetta,South,60,November
+859,Jennifer Lucas,Shoes,Clothing,2,30,2024-11-19,Lahore,North,60,November
+860,Monica Coleman,Backpack,Accessories,4,20,2024-11-11,Quetta,South,80,November
+861,David Jones,Shoes,Clothing,2,30,2024-10-01,Lahore,North,60,October
+862,Walter Rose,Shoes,Clothing,4,30,2024-11-01,Karachi,South,120,November
+863,Beverly Cook,Watch,Accessories,4,50,2024-12-21,Lahore,North,200,December
+864,Ryan Stevens,Watch,Accessories,3,50,2024-12-01,Multan,South,150,December
+865,Tracey Huff,Power Bank,Electronics,1,25,2024-12-13,Multan,South,25,December
+866,Sean Thomas,Power Bank,Electronics,4,25,2024-12-09,Islamabad,North,100,December
+867,Donna Smith,T-Shirt,Clothing,4,15,2024-10-03,Multan,South,60,October
+868,Christina Hall,Headphones,Electronics,1,40,2024-11-12,Multan,South,40,November
+869,Laura Thompson,Book,Books,1,10,2024-11-14,Karachi,South,10,November
+870,Felicia Lindsey,Notebook,Books,2,5,2024-11-01,Peshawar,North,10,November
+871,Joshua Carlson,Backpack,Accessories,2,20,2024-12-22,Islamabad,North,40,December
+872,Cynthia Williams,Power Bank,Electronics,1,25,2024-11-29,Quetta,South,25,November
+873,Jason Mccarty DDS,Headphones,Electronics,4,40,2024-12-03,Karachi,South,160,December
+874,Mitchell Thomas,Mouse,Electronics,4,15,2024-12-08,Lahore,North,60,December
+875,Alicia Jennings,Mouse,Electronics,2,15,2024-12-18,Lahore,North,30,December
+876,David Barron,Book,Books,2,10,2024-12-05,Islamabad,North,20,December
+877,Kristen Sanchez,Headphones,Electronics,1,40,2024-11-04,Islamabad,North,40,November
+878,Nathaniel Marquez,Watch,Accessories,2,50,2024-11-01,Islamabad,North,100,November
+879,Robin Welch,T-Shirt,Clothing,4,15,2024-11-07,Peshawar,North,60,November
+880,Bradley Lee,Book,Books,2,10,2024-12-02,Peshawar,North,20,December
+881,Mary Boyd,Power Bank,Electronics,5,25,2024-10-04,Peshawar,North,125,October
+882,Stephanie Kennedy,Power Bank,Electronics,2,25,2024-12-18,Multan,South,50,December
+883,Dylan Ford,Headphones,Electronics,2,40,2024-12-15,Islamabad,North,80,December
+884,Melinda Griffin,Book,Books,5,10,2024-11-25,Peshawar,North,50,November
+885,Angela Thomas,Book,Books,1,10,2024-10-20,Multan,South,10,October
+886,Julia Fernandez,Notebook,Books,4,5,2024-12-01,Karachi,South,20,December
+887,Lori Bentley,Notebook,Books,3,5,2024-11-01,Lahore,North,15,November
+888,Brenda Rivera,Book,Books,4,10,2024-10-15,Karachi,South,40,October
+889,Drew Wilson,Power Bank,Electronics,5,25,2024-12-20,Islamabad,North,125,December
+890,Christopher Richardson,Jeans,Clothing,3,35,2024-11-07,Lahore,North,105,November
+891,Sarah Delacruz,Mouse,Electronics,1,15,2024-10-22,Lahore,North,15,October
+892,Joshua Nelson,Watch,Accessories,3,50,2024-11-20,Multan,South,150,November
+893,Michael Brown,Shoes,Clothing,4,30,2024-10-31,Peshawar,North,120,October
+894,Catherine Baker,Power Bank,Electronics,2,25,2024-12-23,Peshawar,North,50,December
+895,John Robinson,Jeans,Clothing,4,35,2024-12-26,Peshawar,North,140,December
+896,Austin Wallace,Notebook,Books,1,5,2024-11-23,Multan,South,5,November
+897,Robert Jackson,Watch,Accessories,5,50,2024-10-29,Karachi,South,250,October
+898,Gregory Robinson,Jeans,Clothing,5,35,2024-11-21,Islamabad,North,175,November
+899,Joseph Henderson,Watch,Accessories,5,50,2024-10-14,Islamabad,North,250,October
+900,Cameron Martinez,Headphones,Electronics,2,40,2024-10-06,Quetta,South,80,October
+901,Destiny Newton,T-Shirt,Clothing,4,15,2024-11-11,Multan,South,60,November
+902,William Lawrence,Mouse,Electronics,4,15,2024-12-27,Karachi,South,60,December
+903,Deborah Gallagher,Power Bank,Electronics,5,25,2024-10-16,Multan,South,125,October
+904,Mitchell Leonard,Backpack,Accessories,2,20,2024-11-21,Islamabad,North,40,November
+905,Barbara Pitts,Backpack,Accessories,4,20,2024-10-08,Multan,South,80,October
+906,Joshua Atkinson,Mouse,Electronics,5,15,2024-10-06,Peshawar,North,75,October
+907,Scott Smith,Shoes,Clothing,2,30,2024-10-29,Lahore,North,60,October
+908,Barbara Rice,T-Shirt,Clothing,5,15,2024-12-18,Peshawar,North,75,December
+909,Jeremy Haynes,Jeans,Clothing,5,35,2024-11-03,Quetta,South,175,November
+910,Daniel Pacheco,Jeans,Clothing,3,35,2024-12-13,Multan,South,105,December
+911,Craig Werner,Shoes,Clothing,5,30,2024-11-20,Peshawar,North,150,November
+912,Devin Lee,Watch,Accessories,3,50,2024-12-14,Islamabad,North,150,December
+913,Rachel Cruz,Notebook,Books,1,5,2024-11-06,Quetta,South,5,November
+914,Heidi Foley,T-Shirt,Clothing,5,15,2024-11-10,Multan,South,75,November
+915,Alexandria Church,T-Shirt,Clothing,1,15,2024-12-16,Karachi,South,15,December
+916,John Chase,T-Shirt,Clothing,3,15,2024-12-22,Peshawar,North,45,December
+917,Derek Gordon,Shoes,Clothing,3,30,2024-12-13,Islamabad,North,90,December
+918,John Pearson,Book,Books,2,10,2024-10-06,Karachi,South,20,October
+919,Michael Burns,Power Bank,Electronics,2,25,2024-10-26,Quetta,South,50,October
+920,Christopher Smith,Watch,Accessories,2,50,2024-12-29,Multan,South,100,December
+921,Felicia Patterson,Book,Books,3,10,2024-11-03,Islamabad,North,30,November
+922,David Long,Mouse,Electronics,4,15,2024-11-07,Multan,South,60,November
+923,Ricky Sanders,Backpack,Accessories,1,20,2024-11-23,Quetta,South,20,November
+924,David Newman,Power Bank,Electronics,1,25,2024-12-05,Quetta,South,25,December
+925,Michelle Hobbs,Headphones,Electronics,3,40,2024-12-16,Peshawar,North,120,December
+926,Denise Perkins,Shoes,Clothing,5,30,2024-12-02,Lahore,North,150,December
+927,Brittany Colon,Power Bank,Electronics,5,25,2024-12-07,Lahore,North,125,December
+928,Haley Romero,T-Shirt,Clothing,3,15,2024-10-28,Lahore,North,45,October
+929,Nicole Blackburn,Backpack,Accessories,1,20,2024-10-04,Peshawar,North,20,October
+930,Anthony Walker,Jeans,Clothing,4,35,2024-10-06,Islamabad,North,140,October
+931,Jamie Johnson,Watch,Accessories,3,50,2024-10-19,Islamabad,North,150,October
+932,Richard Garcia,Watch,Accessories,5,50,2024-10-18,Lahore,North,250,October
+933,Jamie Henderson,Shoes,Clothing,4,30,2024-10-26,Islamabad,North,120,October
+934,Sharon Ortiz,Shoes,Clothing,4,30,2024-12-07,Quetta,South,120,December
+935,Jeremy Schroeder,Book,Books,4,10,2024-10-19,Lahore,North,40,October
+936,James Walter,Jeans,Clothing,1,35,2024-11-21,Islamabad,North,35,November
+937,Guy Baker,Notebook,Books,3,5,2024-11-18,Karachi,South,15,November
+938,Larry Stephens,Jeans,Clothing,5,35,2024-11-25,Multan,South,175,November
+939,Steven Welch,Power Bank,Electronics,5,25,2024-12-30,Karachi,South,125,December
+940,Brian Harper,T-Shirt,Clothing,5,15,2024-10-15,Lahore,North,75,October
+941,Jessica Bullock,Mouse,Electronics,1,15,2024-11-03,Lahore,North,15,November
+942,Katrina Stokes,Mouse,Electronics,1,15,2024-12-19,Karachi,South,15,December
+943,Jill Hill,Notebook,Books,4,5,2024-12-18,Islamabad,North,20,December
+944,Taylor Ross,Backpack,Accessories,2,20,2024-10-07,Quetta,South,40,October
+945,Melissa Hayes,Power Bank,Electronics,5,25,2024-12-23,Islamabad,North,125,December
+946,Beth Byrd,Power Bank,Electronics,2,25,2024-11-04,Lahore,North,50,November
+947,Richard Harris,Backpack,Accessories,4,20,2024-11-27,Islamabad,North,80,November
+948,Luke Montes,Backpack,Accessories,4,20,2024-11-17,Quetta,South,80,November
+949,Toni Weaver,Watch,Accessories,2,50,2024-11-07,Lahore,North,100,November
+950,Marilyn Arellano,Headphones,Electronics,5,40,2024-11-06,Peshawar,North,200,November
+951,Kevin Woodward,Jeans,Clothing,4,35,2024-11-23,Quetta,South,140,November
+952,Brandy Reynolds,Mouse,Electronics,3,15,2024-11-01,Islamabad,North,45,November
+953,Rodney Terry,Backpack,Accessories,3,20,2024-12-27,Lahore,North,60,December
+954,Douglas Wagner,Power Bank,Electronics,3,25,2024-10-15,Multan,South,75,October
+955,Tony Farrell,Jeans,Clothing,1,35,2024-12-07,Islamabad,North,35,December
+956,Jordan Anderson,Headphones,Electronics,5,40,2024-11-09,Karachi,South,200,November
+957,Amber Garcia,Power Bank,Electronics,5,25,2024-11-29,Islamabad,North,125,November
+958,Desiree Carr,Headphones,Electronics,2,40,2024-12-01,Peshawar,North,80,December
+959,Matthew Lee,Shoes,Clothing,4,30,2024-11-12,Karachi,South,120,November
+960,Dorothy Smith,Book,Books,1,10,2024-10-15,Quetta,South,10,October
+961,Erika Cox,Shoes,Clothing,4,30,2024-11-07,Peshawar,North,120,November
+962,Daniel Yoder,Book,Books,4,10,2024-10-13,Lahore,North,40,October
+963,Thomas Rice,Power Bank,Electronics,1,25,2024-12-13,Multan,South,25,December
+964,Ashley Schwartz,Power Bank,Electronics,1,25,2024-11-01,Karachi,South,25,November
+965,Anthony Moore,Book,Books,5,10,2024-12-05,Multan,South,50,December
+966,Dustin Aguilar,Shoes,Clothing,1,30,2024-11-01,Quetta,South,30,November
+967,Kevin Perry,Mouse,Electronics,2,15,2024-10-03,Karachi,South,30,October
+968,Stephen Rodriguez,Backpack,Accessories,1,20,2024-12-13,Peshawar,North,20,December
+969,Steven Townsend,Shoes,Clothing,1,30,2024-10-31,Multan,South,30,October
+970,Mark Smith,Notebook,Books,1,5,2024-11-07,Karachi,South,5,November
+971,Justin Martinez,Backpack,Accessories,5,20,2024-10-01,Islamabad,North,100,October
+972,Emily Myers,Backpack,Accessories,4,20,2024-10-27,Quetta,South,80,October
+973,Heather Stevens,Notebook,Books,4,5,2024-11-23,Karachi,South,20,November
+974,Roger White,Power Bank,Electronics,1,25,2024-10-30,Lahore,North,25,October
+975,Antonio Ramirez,Notebook,Books,3,5,2024-10-23,Karachi,South,15,October
+976,Emily Wood,T-Shirt,Clothing,1,15,2024-12-25,Islamabad,North,15,December
+977,Olivia Nielsen,Power Bank,Electronics,1,25,2024-11-22,Quetta,South,25,November
+978,Shane Ford,Power Bank,Electronics,2,25,2024-12-13,Karachi,South,50,December
+979,Michael Cochran,Backpack,Accessories,4,20,2024-12-02,Karachi,South,80,December
+980,Jillian Craig,Jeans,Clothing,5,35,2024-12-25,Peshawar,North,175,December
+981,Megan Walker,Jeans,Clothing,2,35,2024-12-06,Lahore,North,70,December
+982,Alison Rojas,Book,Books,5,10,2024-10-27,Quetta,South,50,October
+983,Catherine Smith,Shoes,Clothing,4,30,2024-11-02,Multan,South,120,November
+984,Kyle Roberts,Power Bank,Electronics,2,25,2024-11-05,Lahore,North,50,November
+985,Natalie Larson,Headphones,Electronics,4,40,2024-11-27,Peshawar,North,160,November
+986,Elizabeth Murray,T-Shirt,Clothing,4,15,2024-10-14,Karachi,South,60,October
+987,Douglas Rose,Shoes,Clothing,2,30,2024-12-25,Karachi,South,60,December
+988,Mr. Samuel Smith,Power Bank,Electronics,5,25,2024-11-23,Islamabad,North,125,November
+989,Krista Gardner,Shoes,Clothing,3,30,2024-10-25,Lahore,North,90,October
+990,Richard Kent DVM,T-Shirt,Clothing,1,15,2024-12-29,Quetta,South,15,December
+991,David Liu,Notebook,Books,5,5,2024-10-08,Peshawar,North,25,October
+992,Andrew Bright,Mouse,Electronics,5,15,2024-10-29,Multan,South,75,October
+993,Brittney Hodge,Headphones,Electronics,4,40,2024-10-22,Multan,South,160,October
+994,Carol Calhoun,Mouse,Electronics,1,15,2024-12-06,Islamabad,North,15,December
+995,Elizabeth Johnson,Notebook,Books,3,5,2024-10-05,Karachi,South,15,October
+996,Linda Kelly,Power Bank,Electronics,2,25,2024-12-27,Multan,South,50,December
+997,Emily Weaver,Headphones,Electronics,3,40,2024-10-05,Lahore,North,120,October
+998,Ronald Morris,Notebook,Books,4,5,2024-10-05,Karachi,South,20,October
+999,Melissa Reed,Backpack,Accessories,5,20,2024-12-28,Lahore,North,100,December
+1000,Lauren Livingston,Headphones,Electronics,1,40,2024-10-21,Islamabad,North,40,October
+1001,Gregory Smith,Backpack,Accessories,5,20,2024-11-11,Quetta,South,100,November
+1002,Jennifer Sanford,Mouse,Electronics,1,15,2024-10-29,Peshawar,North,15,October
+1003,Daniel Walton,T-Shirt,Clothing,5,15,2024-12-13,Multan,South,75,December
+1004,Thomas Jones,Notebook,Books,4,5,2024-10-20,Karachi,South,20,October
+1005,Michael Turner,Book,Books,4,10,2024-10-31,Islamabad,North,40,October
